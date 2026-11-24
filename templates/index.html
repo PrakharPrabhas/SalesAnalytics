@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sales Analytics Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body data-min-date="{{ min_date }}" data-max-date="{{ max_date }}">
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <span class="brand-mark">S</span
+          ><span>Sales<span class="brand-light">Analytics</span></span>
+        </div>
+        <div class="side-label">WORKSPACE</div>
+        <a class="nav-link active" href="#"><span>▦</span> Overview</a>
+        <a class="nav-link" href="#performance"><span>⌁</span> Performance</a>
+        <a class="nav-link" href="#orders"><span>▤</span> Orders</a>
+        <div class="sidebar-bottom">
+          <div class="avatar">PP</div>
+          <div>
+            <strong>Prakhar Prabhas</strong><small>Dashboard workspace</small>
+          </div>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <header class="topbar">
+          <div>
+            <div class="eyebrow">BUSINESS INTELLIGENCE / OVERVIEW</div>
+            <h1>Sales overview</h1>
+            <p class="subheading">
+              Track your business performance and discover what drives growth.
+            </p>
+          </div>
+          <div class="top-actions">
+            <span class="live-dot">● Live data</span
+            ><button class="export-btn" id="exportBtn">↓ Export CSV</button>
+          </div>
+        </header>
+
+        <section class="filters panel">
+          <div class="filter-heading">
+            <div>
+              <strong>Filters</strong><small>Refine your sales data</small>
+            </div>
+            <button class="reset-btn" id="resetBtn">Reset filters ↺</button>
+          </div>
+          <div class="filter-controls">
+            <label
+              >Date from<input
+                type="date"
+                id="startDate"
+                value="{{ min_date }}"
+            /></label>
+            <label
+              >Date to<input type="date" id="endDate" value="{{ max_date }}"
+            /></label>
+            <label
+              >Category<select id="category">
+                <option>All</option>
+                {% for item in categories %}
+                <option>{{ item }}</option>
+                {% endfor %}
+              </select></label
+            >
+            <label
+              >Region<select id="region">
+                <option>All</option>
+                {% for item in regions %}
+                <option>{{ item }}</option>
+                {% endfor %}
+              </select></label
+            >
+            <label class="search-label"
+              >Search<input
+                type="search"
+                id="search"
+                placeholder="Product, order, customer..."
+            /></label>
+          </div>
+        </section>
+
+        <section class="kpi-grid">
+          <article class="kpi-card">
+            <div class="kpi-top">
+              <span>Total sales</span><span class="kpi-icon blue">₹</span>
+            </div>
+            <div class="kpi-value" id="salesKpi">₹0</div>
+            <div class="kpi-foot">Revenue generated</div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top">
+              <span>Total profit</span><span class="kpi-icon green">↗</span>
+            </div>
+            <div class="kpi-value" id="profitKpi">₹0</div>
+            <div class="kpi-foot">Sales minus estimated costs</div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top">
+              <span>Total orders</span><span class="kpi-icon purple">▤</span>
+            </div>
+            <div class="kpi-value" id="ordersKpi">0</div>
+            <div class="kpi-foot">Unique order IDs</div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top">
+              <span>Customers</span><span class="kpi-icon orange">♙</span>
+            </div>
+            <div class="kpi-value" id="customersKpi">0</div>
+            <div class="kpi-foot">Unique customers</div>
+          </article>
+        </section>
+
+        <section class="secondary-kpis">
+          <div class="mini-stat">
+            <span>Total units sold</span><strong id="quantityKpi">0</strong>
+          </div>
+          <div class="mini-stat">
+            <span>Average order value</span><strong id="averageKpi">₹0</strong>
+          </div>
+          <div class="mini-stat">
+            <span>Records in current view</span
+            ><strong id="recordsKpi">0</strong>
+          </div>
+        </section>
+
+        <section class="chart-grid" id="performance">
+          <article class="panel chart-panel wide">
+            <div class="panel-heading">
+              <div>
+                <h2>Sales & profit trend</h2>
+                <p>Monthly revenue and profit over time</p>
+              </div>
+              <span class="chart-tag">MONTHLY</span>
+            </div>
+            <div class="chart-wrap trend-wrap">
+              <canvas id="trendChart"></canvas>
+            </div>
+          </article>
+          <article class="panel chart-panel">
+            <div class="panel-heading">
+              <div>
+                <h2>Sales by category</h2>
+                <p>Revenue contribution</p>
+              </div>
+            </div>
+            <div class="chart-wrap doughnut-wrap">
+              <canvas id="categoryChart"></canvas>
+            </div>
+          </article>
+          <article class="panel chart-panel">
+            <div class="panel-heading">
+              <div>
+                <h2>Sales by region</h2>
+                <p>Regional performance</p>
+              </div>
+            </div>
+            <div class="chart-wrap"><canvas id="regionChart"></canvas></div>
+          </article>
+          <article class="panel chart-panel wide">
+            <div class="panel-heading">
+              <div>
+                <h2>Top products</h2>
+                <p>Best-performing products by revenue</p>
+              </div>
+            </div>
+            <div class="chart-wrap product-wrap">
+              <canvas id="productChart"></canvas>
+            </div>
+          </article>
+          <article class="panel chart-panel">
+            <div class="panel-heading">
+              <div>
+                <h2>Payment methods</h2>
+                <p>Sales split by payment type</p>
+              </div>
+            </div>
+            <div class="chart-wrap doughnut-wrap">
+              <canvas id="paymentChart"></canvas>
+            </div>
+          </article>
+        </section>
+
+        <section class="panel table-panel" id="orders">
+          <div class="panel-heading table-heading">
+            <div>
+              <h2>Recent orders</h2>
+              <p>Latest transactions matching your filters</p>
+            </div>
+            <span class="table-count" id="tableCount">0 orders</span>
+          </div>
+          <div class="table-scroll">
+            <table>
+              <thead>
+                <tr>
+                  <th>ORDER ID</th>
+                  <th>DATE</th>
+                  <th>CUSTOMER</th>
+                  <th>PRODUCT</th>
+                  <th>CATEGORY</th>
+                  <th>REGION</th>
+                  <th>SALES</th>
+                  <th>PROFIT</th>
+                </tr>
+              </thead>
+              <tbody id="ordersBody">
+                <tr>
+                  <td colspan="8" class="empty">Loading sales data...</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+        <footer>
+          SalesAnalytics <span>•</span> Sample project dashboard · Built
+          with Python, Flask & Chart.js
+        </footer>
+      </main>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>

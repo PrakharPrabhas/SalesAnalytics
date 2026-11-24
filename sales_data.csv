@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,City,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Mode
+ORD-10001,2026-01-16,Customer 347,Running Shoes,Sports,North,Chandigarh,1,3402.05,0,3402.05,1314.93,Net Banking
+ORD-10002,2026-09-29,Customer 014,Smartphone,Electronics,Central,Nagpur,4,25395.78,0,101583.12,36992.65,Credit Card
+ORD-10003,2025-11-28,Customer 082,Yoga Mat,Sports,Central,Nagpur,4,853.65,0.05,3243.87,600.07,Cash
+ORD-10004,2026-06-07,Customer 050,Desk,Furniture,East,Bhubaneswar,2,9000.01,0.1,16200.02,5318.46,Debit Card
+ORD-10005,2026-06-06,Customer 041,Jacket,Clothing,East,Patna,1,2969.51,0.05,2821.03,405.19,Debit Card
+ORD-10006,2026-03-21,Customer 149,Backpack,Accessories,Central,Bhopal,3,1848.63,0.1,4991.3,1713.69,Credit Card
+ORD-10007,2026-06-02,Customer 182,Backpack,Accessories,North,Delhi,4,1730.08,0.05,6574.3,1954.57,Debit Card
+ORD-10008,2026-07-19,Customer 195,Yoga Mat,Sports,North,Jaipur,5,935.73,0.05,4444.72,1456.21,Net Banking
+ORD-10009,2026-04-11,Customer 034,Monitor,Electronics,East,Kolkata,1,11879.88,0,11879.88,4090.14,Net Banking
+ORD-10010,2026-07-17,Customer 074,Yoga Mat,Sports,East,Bhubaneswar,2,939.78,0,1879.56,376.87,Credit Card
+ORD-10011,2026-06-17,Customer 186,Monitor,Electronics,Central,Bhopal,5,11972.54,0.05,56869.57,9250.14,Credit Card
+ORD-10012,2026-02-14,Customer 349,Jeans,Clothing,West,Pune,1,1599.41,0.1,1439.47,453.14,Net Banking
+ORD-10013,2026-09-04,Customer 006,Smartphone,Electronics,West,Ahmedabad,4,28870.67,0.05,109708.55,35760.44,UPI
+ORD-10014,2026-02-13,Customer 233,Running Shoes,Sports,Central,Bhopal,3,3421.09,0,10263.27,3587.63,Debit Card
+ORD-10015,2026-10-18,Customer 260,Jeans,Clothing,South,Hyderabad,5,1651.17,0.1,7430.27,2050.54,Credit Card
+ORD-10016,2025-11-25,Customer 307,Headphones,Electronics,East,Bhubaneswar,2,2241.06,0.1,4033.91,863.77,Cash
+ORD-10017,2025-12-24,Customer 124,Laptop,Electronics,North,Chandigarh,3,56852.58,0.1,153501.97,41990.74,UPI
+ORD-10018,2026-10-28,Customer 244,Smartphone,Electronics,West,Ahmedabad,1,31224.38,0.05,29663.16,10610.59,Credit Card
+ORD-10019,2026-11-13,Customer 103,Office Chair,Furniture,Central,Nagpur,5,7746.1,0,38730.5,11253.88,Debit Card
+ORD-10020,2025-12-27,Customer 174,Bookshelf,Furniture,East,Kolkata,4,6807.07,0.05,25866.87,8454.46,Net Banking
+ORD-10021,2026-03-22,Customer 035,Jeans,Clothing,South,Bengaluru,5,1422.67,0,7113.35,1910.19,Debit Card
+ORD-10022,2026-09-13,Customer 296,Smartphone,Electronics,Central,Indore,2,26915.42,0.05,51139.3,12950.83,Credit Card
+ORD-10023,2026-06-29,Customer 211,Water Bottle,Accessories,West,Pune,4,423.85,0,1695.4,536.67,UPI
+ORD-10024,2026-04-01,Customer 099,Running Shoes,Sports,North,Delhi,1,3163.45,0,3163.45,674.44,Net Banking
+ORD-10025,2026-01-02,Customer 227,T-Shirt,Clothing,South,Hyderabad,4,611.24,0.05,2322.71,391.49,UPI
+ORD-10026,2026-02-18,Customer 209,Laptop,Electronics,Central,Indore,1,57885.32,0.15,49202.52,3838.55,Cash
+ORD-10027,2026-07-15,Customer 147,Monitor,Electronics,West,Pune,1,11702.75,0,11702.75,3818.59,Net Banking
+ORD-10028,2026-08-29,Customer 032,Running Shoes,Sports,West,Ahmedabad,2,3013.69,0,6027.38,2446.9,Debit Card
+ORD-10029,2025-12-24,Customer 261,Laptop,Electronics,North,Delhi,5,52254.46,0.15,222081.45,37239.06,Credit Card
+ORD-10030,2026-09-12,Customer 127,Smartphone,Electronics,Central,Nagpur,1,29359.31,0,29359.31,11486.16,Net Banking
+ORD-10031,2026-04-07,Customer 105,Laptop,Electronics,Central,Nagpur,1,51595.93,0.05,49016.13,12616.86,Debit Card
+ORD-10032,2026-01-01,Customer 005,Monitor,Electronics,East,Bhubaneswar,4,11609.92,0.05,44117.7,12086.68,Net Banking
+ORD-10033,2026-05-22,Customer 036,Jacket,Clothing,North,Delhi,1,2851.18,0.05,2708.62,964.3,Debit Card
+ORD-10034,2026-10-25,Customer 271,Office Chair,Furniture,South,Bengaluru,4,8450.71,0.1,30422.56,5854.57,Net Banking
+ORD-10035,2026-02-12,Customer 140,Office Chair,Furniture,North,Jaipur,2,7473.82,0.1,13452.88,2119.88,Net Banking
+ORD-10036,2026-04-02,Customer 027,Monitor,Electronics,East,Kolkata,2,13140.62,0.1,23653.12,5222.13,Cash
+ORD-10037,2026-04-08,Customer 083,Backpack,Accessories,East,Patna,1,1621.4,0.1,1459.26,270.92,Cash
+ORD-10038,2026-02-09,Customer 280,Jeans,Clothing,West,Mumbai,5,1353.19,0,6765.95,1407.69,Debit Card
+ORD-10039,2025-12-15,Customer 184,Jacket,Clothing,Central,Bhopal,2,2784.75,0,5569.5,1851.77,Credit Card
+ORD-10040,2026-10-08,Customer 080,Running Shoes,Sports,North,Delhi,3,3429.2,0.1,9258.84,2288.68,Credit Card
+ORD-10041,2026-06-23,Customer 343,Water Bottle,Accessories,South,Hyderabad,4,407.45,0.1,1466.82,391.6,Credit Card
+ORD-10042,2026-03-07,Customer 236,Office Chair,Furniture,South,Chennai,1,7676.44,0,7676.44,2356.93,Debit Card
+ORD-10043,2025-12-30,Customer 143,Backpack,Accessories,South,Chennai,2,1629.37,0,3258.74,1111.94,Net Banking
+ORD-10044,2026-02-24,Customer 298,Bookshelf,Furniture,Central,Indore,3,6861.12,0,20583.36,3851.23,UPI
+ORD-10045,2026-08-13,Customer 060,Smartphone,Electronics,Central,Indore,4,27329.43,0.1,98385.95,23532.33,Net Banking
+ORD-10046,2026-08-27,Customer 344,Monitor,Electronics,East,Kolkata,1,13199.16,0,13199.16,2611.61,Debit Card
+ORD-10047,2026-04-27,Customer 260,Bookshelf,Furniture,North,Jaipur,3,6429.98,0.05,18325.44,6560.31,Cash
+ORD-10048,2026-06-07,Customer 347,Desk,Furniture,West,Ahmedabad,3,9708.72,0,29126.16,7584.95,Credit Card
+ORD-10049,2026-03-12,Customer 221,Jacket,Clothing,Central,Nagpur,3,2770.14,0.1,7479.38,2053.26,Net Banking
+ORD-10050,2026-02-19,Customer 338,Running Shoes,Sports,East,Kolkata,4,3191.02,0.05,12125.88,3156.79,Debit Card
+ORD-10051,2026-05-02,Customer 116,Jeans,Clothing,Central,Bhopal,3,1380.82,0.15,3521.09,884.96,Credit Card
+ORD-10052,2026-07-16,Customer 213,Laptop,Electronics,North,Chandigarh,2,58056.23,0.05,110306.84,21546.13,Net Banking
+ORD-10053,2026-01-18,Customer 218,Monitor,Electronics,West,Mumbai,4,12349.05,0,49396.2,12594.58,Credit Card
+ORD-10054,2026-07-16,Customer 069,Water Bottle,Accessories,Central,Indore,4,409.97,0,1639.88,354.87,Net Banking
+ORD-10055,2026-08-10,Customer 219,Jeans,Clothing,Central,Nagpur,3,1663.51,0.1,4491.48,863.18,Cash
+ORD-10056,2026-08-18,Customer 249,Headphones,Electronics,West,Ahmedabad,4,2105.45,0,8421.8,2248.29,Credit Card
+ORD-10057,2026-08-28,Customer 042,Office Chair,Furniture,West,Mumbai,1,8244.44,0,8244.44,2798.13,Credit Card
+ORD-10058,2026-08-29,Customer 239,Monitor,Electronics,West,Pune,2,13192.65,0,26385.3,8500.71,UPI
+ORD-10059,2026-09-15,Customer 195,Monitor,Electronics,West,Pune,4,13738.31,0.05,52205.58,11159.6,UPI
+ORD-10060,2026-08-31,Customer 309,Desk,Furniture,East,Kolkata,4,10333.71,0.15,35134.61,7003.56,Cash
+ORD-10061,2026-06-20,Customer 085,Monitor,Electronics,East,Bhubaneswar,4,12585.52,0,50342.08,13062.28,Credit Card
+ORD-10062,2026-01-06,Customer 330,Jacket,Clothing,Central,Indore,1,3078.67,0.05,2924.74,649.23,Credit Card
+ORD-10063,2026-05-11,Customer 173,Backpack,Accessories,West,Pune,2,1639.91,0,3279.82,1210.91,Debit Card
+ORD-10064,2025-12-21,Customer 180,Water Bottle,Accessories,West,Mumbai,3,487.66,0.05,1389.83,278.31,UPI
+ORD-10065,2026-02-11,Customer 123,Water Bottle,Accessories,North,Delhi,1,499.01,0,499.01,207.14,Cash
+ORD-10066,2026-06-01,Customer 086,Running Shoes,Sports,North,Chandigarh,5,3547.22,0.05,16849.29,5471.61,Net Banking
+ORD-10067,2026-05-03,Customer 295,Yoga Mat,Sports,North,Chandigarh,2,1001.01,0,2002.02,828.51,Cash
+ORD-10068,2026-11-16,Customer 155,Bookshelf,Furniture,South,Hyderabad,1,6387.62,0.1,5748.86,1671.75,Net Banking
+ORD-10069,2026-06-02,Customer 036,Water Bottle,Accessories,North,Chandigarh,5,482.48,0,2412.4,765.19,Debit Card
+ORD-10070,2026-07-18,Customer 079,Laptop,Electronics,West,Pune,4,48007.36,0.15,163225.02,22555.69,Credit Card
+ORD-10071,2026-07-21,Customer 224,Yoga Mat,Sports,Central,Nagpur,3,931.95,0.15,2376.47,235.09,Net Banking
+ORD-10072,2026-03-29,Customer 238,Office Chair,Furniture,East,Patna,2,8445.53,0,16891.06,3520.24,Net Banking
+ORD-10073,2026-03-13,Customer 182,Running Shoes,Sports,West,Pune,3,2900.2,0.1,7830.54,2404.48,Debit Card
+ORD-10074,2026-03-28,Customer 209,Office Chair,Furniture,Central,Indore,3,7973.74,0.05,22725.16,7753.98,Net Banking
+ORD-10075,2026-01-11,Customer 151,Water Bottle,Accessories,South,Bengaluru,4,468.94,0.05,1781.97,337.06,Cash
+ORD-10076,2026-05-20,Customer 218,Yoga Mat,Sports,South,Hyderabad,3,941.46,0,2824.38,811.07,Net Banking
+ORD-10077,2026-03-03,Customer 162,Desk,Furniture,East,Kolkata,4,9116.22,0,36464.88,14259.32,Net Banking
+ORD-10078,2026-08-20,Customer 306,Water Bottle,Accessories,South,Chennai,2,426.42,0.05,810.2,167.24,UPI
+ORD-10079,2026-08-25,Customer 065,Backpack,Accessories,South,Chennai,3,1710.08,0,5130.24,2137.28,UPI
+ORD-10080,2026-08-03,Customer 053,Laptop,Electronics,Central,Bhopal,3,54778.45,0,164335.35,34768.32,Net Banking
+ORD-10081,2026-07-27,Customer 059,Office Chair,Furniture,West,Mumbai,4,7775.84,0,31103.36,12679.89,Cash
+ORD-10082,2026-09-09,Customer 156,T-Shirt,Clothing,North,Delhi,5,675.01,0,3375.05,1296.67,Credit Card
+ORD-10083,2026-08-19,Customer 195,Smartphone,Electronics,Central,Indore,4,28934.92,0.1,104165.71,30767.67,Cash
+ORD-10084,2026-01-14,Customer 107,Office Chair,Furniture,Central,Nagpur,4,7544.03,0.05,28667.31,6750.05,Credit Card
+ORD-10085,2026-06-22,Customer 231,Office Chair,Furniture,North,Chandigarh,2,7431.61,0.05,14120.06,4941.01,Net Banking
+ORD-10086,2026-07-15,Customer 037,T-Shirt,Clothing,East,Patna,1,618.1,0.1,556.29,93.51,Credit Card
+ORD-10087,2026-04-10,Customer 073,Office Chair,Furniture,Central,Bhopal,2,7749.54,0.05,14724.13,3325.61,UPI
+ORD-10088,2026-01-27,Customer 240,Headphones,Electronics,East,Patna,5,2342.5,0.05,11126.88,3522.35,Debit Card
+ORD-10089,2025-12-15,Customer 222,Yoga Mat,Sports,West,Ahmedabad,3,909.09,0.05,2590.91,956.44,Debit Card
+ORD-10090,2026-09-15,Customer 301,Jacket,Clothing,East,Kolkata,1,2576.26,0.15,2189.82,178.71,Debit Card
+ORD-10091,2026-02-25,Customer 300,Jacket,Clothing,North,Jaipur,2,2809.83,0.05,5338.68,843.75,Cash
+ORD-10092,2026-02-15,Customer 169,Smartphone,Electronics,West,Pune,3,27715.42,0,83146.26,32834.13,Cash
+ORD-10093,2026-01-23,Customer 207,Office Chair,Furniture,West,Ahmedabad,5,7082.97,0,35414.85,12728.96,UPI
+ORD-10094,2026-08-07,Customer 321,Running Shoes,Sports,Central,Indore,4,3170.93,0,12683.72,4225.87,UPI
+ORD-10095,2026-07-31,Customer 063,Monitor,Electronics,East,Kolkata,5,11610.29,0,58051.45,12109.35,Net Banking
+ORD-10096,2026-03-20,Customer 059,Water Bottle,Accessories,South,Chennai,2,435.76,0,871.52,280.7,UPI
+ORD-10097,2026-06-25,Customer 248,Running Shoes,Sports,South,Chennai,4,3536.59,0,14146.36,3546.51,Credit Card
+ORD-10098,2026-02-02,Customer 036,T-Shirt,Clothing,Central,Indore,2,639.85,0.15,1087.75,189.43,Cash
+ORD-10099,2026-09-21,Customer 297,Desk,Furniture,Central,Nagpur,3,10264.95,0,30794.85,10727.28,Cash
+ORD-10100,2026-08-30,Customer 194,Backpack,Accessories,South,Chennai,4,1833.28,0,7333.12,2108.56,Debit Card
+ORD-10101,2025-12-17,Customer 163,Backpack,Accessories,South,Hyderabad,2,1846.43,0,3692.86,863.65,Cash
+ORD-10102,2026-02-10,Customer 254,Yoga Mat,Sports,West,Mumbai,4,1005.71,0.1,3620.56,657.8,Credit Card
+ORD-10103,2026-08-21,Customer 234,Jeans,Clothing,Central,Bhopal,3,1637.0,0.1,4419.9,1052.56,Credit Card
+ORD-10104,2026-11-14,Customer 204,Bookshelf,Furniture,South,Hyderabad,1,6220.39,0.15,5287.33,1174.07,UPI
+ORD-10105,2026-08-01,Customer 278,Backpack,Accessories,East,Kolkata,5,1770.48,0,8852.4,2191.04,Net Banking
+ORD-10106,2026-01-14,Customer 325,Smartphone,Electronics,South,Hyderabad,3,31344.14,0.1,84629.18,20296.6,UPI
+ORD-10107,2026-04-24,Customer 184,T-Shirt,Clothing,South,Chennai,3,714.19,0,2142.57,490.49,Cash
+ORD-10108,2026-02-22,Customer 041,Headphones,Electronics,South,Hyderabad,5,2179.43,0.05,10352.29,3561.04,Cash
+ORD-10109,2026-04-04,Customer 236,Jacket,Clothing,South,Chennai,4,3082.3,0,12329.2,3813.72,UPI
+ORD-10110,2026-05-20,Customer 301,Water Bottle,Accessories,West,Pune,3,472.08,0,1416.24,444.68,Cash
+ORD-10111,2026-07-30,Customer 055,Yoga Mat,Sports,East,Kolkata,4,977.37,0,3909.48,1281.03,Cash
+ORD-10112,2026-10-28,Customer 203,Jacket,Clothing,East,Bhubaneswar,5,2702.26,0.05,12835.74,4928.04,UPI
+ORD-10113,2026-03-22,Customer 311,Jacket,Clothing,North,Jaipur,5,2979.03,0.1,13405.64,1538.61,Credit Card
+ORD-10114,2026-11-08,Customer 071,Running Shoes,Sports,South,Hyderabad,5,3056.44,0.1,13753.98,2075.43,UPI
+ORD-10115,2026-01-31,Customer 047,Running Shoes,Sports,North,Jaipur,3,3435.18,0,10305.54,3425.9,Debit Card
+ORD-10116,2026-05-31,Customer 272,Yoga Mat,Sports,West,Ahmedabad,2,849.76,0.1,1529.57,186.35,Debit Card
+ORD-10117,2026-04-25,Customer 174,Backpack,Accessories,South,Bengaluru,3,1981.96,0.15,5054.0,224.92,Cash
+ORD-10118,2026-09-06,Customer 188,Smartphone,Electronics,South,Bengaluru,2,30498.47,0.1,54897.25,5173.39,Cash
+ORD-10119,2026-04-08,Customer 300,Laptop,Electronics,East,Bhubaneswar,5,48213.86,0,241069.3,57913.82,Debit Card
+ORD-10120,2026-10-03,Customer 114,Smartphone,Electronics,South,Hyderabad,4,25354.15,0.1,91274.94,18788.67,UPI
+ORD-10121,2025-12-14,Customer 156,Running Shoes,Sports,West,Pune,3,3337.06,0,10011.18,4095.74,UPI
+ORD-10122,2026-11-16,Customer 277,Smartphone,Electronics,South,Chennai,5,26035.69,0.05,123669.53,27218.14,Net Banking
+ORD-10123,2026-04-17,Customer 017,Yoga Mat,Sports,South,Hyderabad,4,939.67,0.1,3382.81,647.41,Debit Card
+ORD-10124,2026-11-11,Customer 189,Monitor,Electronics,West,Ahmedabad,4,13864.03,0.1,49910.51,16423.6,Debit Card
+ORD-10125,2026-07-15,Customer 047,Laptop,Electronics,West,Ahmedabad,3,48971.41,0,146914.23,31802.82,Credit Card
+ORD-10126,2026-09-10,Customer 106,Running Shoes,Sports,Central,Bhopal,1,2915.61,0,2915.61,532.63,Net Banking
+ORD-10127,2026-09-26,Customer 002,Monitor,Electronics,Central,Indore,2,13485.9,0,26971.8,6315.49,Credit Card
+ORD-10128,2026-01-31,Customer 008,Headphones,Electronics,Central,Indore,3,2366.48,0,7099.44,1505.45,Credit Card
+ORD-10129,2026-08-21,Customer 059,Jacket,Clothing,East,Patna,1,2627.34,0,2627.34,635.78,UPI
+ORD-10130,2026-10-05,Customer 023,T-Shirt,Clothing,West,Ahmedabad,3,658.39,0,1975.17,590.73,Net Banking
+ORD-10131,2026-11-11,Customer 056,Office Chair,Furniture,West,Pune,1,7124.38,0.05,6768.16,1949.31,Cash
+ORD-10132,2026-10-15,Customer 300,Smartphone,Electronics,North,Chandigarh,3,28947.11,0,86841.33,30741.5,Debit Card
+ORD-10133,2026-11-19,Customer 059,Bookshelf,Furniture,Central,Nagpur,5,5982.24,0.05,28415.64,7978.88,Net Banking
+ORD-10134,2026-07-15,Customer 205,Yoga Mat,Sports,South,Chennai,4,899.41,0,3597.64,1218.36,UPI
+ORD-10135,2026-07-25,Customer 035,Desk,Furniture,West,Mumbai,3,9940.08,0,29820.24,11432.09,UPI
+ORD-10136,2025-12-25,Customer 301,Smartphone,Electronics,West,Ahmedabad,1,29786.67,0,29786.67,11580.23,Net Banking
+ORD-10137,2025-12-21,Customer 148,Desk,Furniture,North,Chandigarh,4,9289.02,0.05,35298.28,7057.12,Debit Card
+ORD-10138,2026-01-19,Customer 180,Desk,Furniture,North,Chandigarh,5,9610.49,0,48052.45,14621.14,Debit Card
+ORD-10139,2026-10-09,Customer 315,Smartphone,Electronics,East,Patna,5,26593.14,0,132965.7,37944.19,Net Banking
+ORD-10140,2026-05-17,Customer 180,Laptop,Electronics,Central,Bhopal,3,47131.22,0,141393.66,33513.37,Credit Card
+ORD-10141,2025-12-10,Customer 047,Backpack,Accessories,South,Hyderabad,5,1880.31,0,9401.55,2276.75,Net Banking
+ORD-10142,2026-05-10,Customer 291,Monitor,Electronics,West,Ahmedabad,4,12497.53,0,49990.12,17256.94,UPI
+ORD-10143,2026-07-09,Customer 339,Laptop,Electronics,South,Chennai,2,55430.75,0,110861.5,44391.21,Cash
+ORD-10144,2026-07-03,Customer 057,Jacket,Clothing,West,Pune,4,2688.27,0.1,9677.77,3147.25,Net Banking
+ORD-10145,2025-11-28,Customer 105,T-Shirt,Clothing,Central,Indore,3,591.49,0,1774.47,490.04,Credit Card
+ORD-10146,2026-07-03,Customer 090,Water Bottle,Accessories,South,Bengaluru,3,433.66,0,1300.98,391.11,Cash
+ORD-10147,2026-06-16,Customer 022,Jeans,Clothing,South,Chennai,5,1534.38,0.05,7288.31,2186.5,UPI
+ORD-10148,2026-06-26,Customer 149,T-Shirt,Clothing,North,Delhi,3,667.33,0.05,1901.89,399.84,Cash
+ORD-10149,2026-05-29,Customer 046,Laptop,Electronics,East,Bhubaneswar,2,55967.13,0.05,106337.55,19063.95,UPI
+ORD-10150,2026-05-17,Customer 114,Monitor,Electronics,West,Pune,5,12351.24,0,61756.2,13035.14,Credit Card
+ORD-10151,2026-05-23,Customer 331,Smartphone,Electronics,Central,Bhopal,1,28468.53,0,28468.53,6653.24,Credit Card
+ORD-10152,2026-10-26,Customer 039,Smartphone,Electronics,South,Bengaluru,3,26415.19,0.05,75283.29,14862.37,Cash
+ORD-10153,2026-10-16,Customer 320,T-Shirt,Clothing,Central,Indore,5,649.19,0.15,2759.06,436.65,Debit Card
+ORD-10154,2026-09-23,Customer 029,Headphones,Electronics,West,Pune,1,2206.96,0.05,2096.61,394.78,Net Banking
+ORD-10155,2026-01-03,Customer 331,Smartphone,Electronics,East,Kolkata,4,27983.79,0,111935.16,24669.7,Net Banking
+ORD-10156,2025-12-16,Customer 231,Jacket,Clothing,Central,Nagpur,4,2805.03,0.05,10659.11,2019.21,Credit Card
+ORD-10157,2026-05-19,Customer 044,Desk,Furniture,Central,Nagpur,4,9597.86,0.15,32632.72,6214.59,Credit Card
+ORD-10158,2026-05-30,Customer 191,Laptop,Electronics,South,Chennai,4,58136.88,0.05,220920.14,52008.48,Cash
+ORD-10159,2026-05-12,Customer 049,Bookshelf,Furniture,East,Patna,5,5651.43,0.05,26844.29,8185.65,Cash
+ORD-10160,2026-02-05,Customer 180,Office Chair,Furniture,East,Bhubaneswar,5,8518.55,0,42592.75,11932.04,Cash
+ORD-10161,2026-01-29,Customer 344,Headphones,Electronics,Central,Nagpur,1,2129.84,0,2129.84,489.87,Net Banking
+ORD-10162,2026-03-14,Customer 175,Smartphone,Electronics,West,Pune,5,27428.86,0,137144.3,51667.32,Credit Card
+ORD-10163,2026-08-28,Customer 270,Monitor,Electronics,South,Bengaluru,2,11462.2,0.1,20631.96,6779.35,Debit Card
+ORD-10164,2026-11-14,Customer 320,Water Bottle,Accessories,Central,Bhopal,2,464.13,0,928.26,349.58,Cash
+ORD-10165,2026-04-19,Customer 230,Laptop,Electronics,West,Mumbai,3,54537.59,0,163612.77,51274.98,Net Banking
+ORD-10166,2026-09-13,Customer 226,Monitor,Electronics,East,Bhubaneswar,4,13735.93,0,54943.72,14131.87,Debit Card
+ORD-10167,2026-09-30,Customer 071,Water Bottle,Accessories,West,Pune,5,457.22,0.15,1943.19,169.05,UPI
+ORD-10168,2026-01-27,Customer 146,Running Shoes,Sports,West,Mumbai,3,3270.4,0,9811.2,2128.89,Credit Card
+ORD-10169,2026-03-18,Customer 231,Office Chair,Furniture,West,Pune,5,7272.85,0,36364.25,7013.24,UPI
+ORD-10170,2026-06-04,Customer 115,Bookshelf,Furniture,North,Delhi,4,6264.74,0,25058.96,4543.54,Debit Card
+ORD-10171,2026-11-16,Customer 072,Smartphone,Electronics,East,Patna,2,26047.61,0,52095.22,11505.61,Cash
+ORD-10172,2026-02-09,Customer 281,T-Shirt,Clothing,Central,Nagpur,1,714.54,0,714.54,263.12,Net Banking
+ORD-10173,2026-03-27,Customer 215,Jeans,Clothing,West,Ahmedabad,1,1606.14,0,1606.14,627.61,Net Banking
+ORD-10174,2026-10-14,Customer 264,T-Shirt,Clothing,North,Chandigarh,1,704.65,0.05,669.42,170.07,Credit Card
+ORD-10175,2026-06-26,Customer 096,Yoga Mat,Sports,South,Hyderabad,3,894.99,0.05,2550.72,838.42,UPI
+ORD-10176,2026-08-11,Customer 284,Jeans,Clothing,East,Kolkata,1,1664.62,0.05,1581.39,301.73,Cash
+ORD-10177,2025-12-03,Customer 183,Backpack,Accessories,West,Mumbai,1,1871.73,0.15,1590.97,391.42,Debit Card
+ORD-10178,2026-08-31,Customer 174,Monitor,Electronics,North,Chandigarh,5,13271.76,0,66358.8,27164.6,Credit Card
+ORD-10179,2026-07-17,Customer 019,Backpack,Accessories,West,Pune,4,1870.17,0.1,6732.61,2280.53,Credit Card
+ORD-10180,2026-08-30,Customer 243,Laptop,Electronics,South,Chennai,1,50410.42,0,50410.42,16354.46,UPI
+ORD-10181,2026-05-13,Customer 140,Water Bottle,Accessories,South,Bengaluru,3,440.34,0.1,1188.92,148.23,Debit Card
+ORD-10182,2026-08-06,Customer 255,Bookshelf,Furniture,West,Pune,4,6800.29,0,27201.16,5067.75,Net Banking
+ORD-10183,2026-08-31,Customer 151,Office Chair,Furniture,North,Jaipur,4,7155.44,0.05,27190.67,4941.2,UPI
+ORD-10184,2026-11-13,Customer 228,Smartphone,Electronics,East,Bhubaneswar,3,27088.01,0.05,77200.83,21756.99,Cash
+ORD-10185,2025-12-24,Customer 039,Laptop,Electronics,East,Patna,5,58218.84,0,291094.2,53792.3,Cash
+ORD-10186,2026-07-07,Customer 018,Desk,Furniture,Central,Bhopal,2,10541.33,0,21082.66,5780.5,UPI
+ORD-10187,2026-11-07,Customer 231,Monitor,Electronics,East,Bhubaneswar,3,12302.85,0.05,35063.12,8296.2,Debit Card
+ORD-10188,2026-04-16,Customer 128,T-Shirt,Clothing,North,Delhi,5,604.69,0,3023.45,1041.72,UPI
+ORD-10189,2026-04-07,Customer 229,Yoga Mat,Sports,South,Bengaluru,4,912.51,0.15,3102.53,882.35,Net Banking
+ORD-10190,2026-07-10,Customer 045,Office Chair,Furniture,West,Ahmedabad,2,7230.45,0.1,13014.81,3058.62,Debit Card
+ORD-10191,2026-02-13,Customer 327,Running Shoes,Sports,East,Kolkata,1,3267.2,0,3267.2,1137.02,Debit Card
+ORD-10192,2026-08-04,Customer 014,Jeans,Clothing,South,Chennai,1,1675.09,0.1,1507.58,440.85,Net Banking
+ORD-10193,2026-01-08,Customer 034,Jacket,Clothing,East,Bhubaneswar,4,3015.06,0.05,11457.23,2691.03,Cash
+ORD-10194,2026-01-28,Customer 163,Yoga Mat,Sports,West,Ahmedabad,5,891.34,0,4456.7,1256.9,UPI
+ORD-10195,2026-10-18,Customer 301,T-Shirt,Clothing,West,Mumbai,5,634.27,0.1,2854.22,420.96,Credit Card
+ORD-10196,2026-02-15,Customer 166,Bookshelf,Furniture,Central,Nagpur,1,6714.02,0.05,6378.32,1994.13,Credit Card
+ORD-10197,2026-09-03,Customer 141,Desk,Furniture,Central,Bhopal,3,10318.0,0,30954.0,8282.87,Debit Card
+ORD-10198,2026-02-11,Customer 088,Jacket,Clothing,Central,Nagpur,1,2829.59,0,2829.59,548.98,Net Banking
+ORD-10199,2025-12-09,Customer 042,Yoga Mat,Sports,Central,Bhopal,3,976.82,0.05,2783.94,503.88,Net Banking
+ORD-10200,2026-10-12,Customer 280,Office Chair,Furniture,South,Chennai,5,7734.86,0.05,36740.58,9686.78,Debit Card
+ORD-10201,2026-07-08,Customer 213,T-Shirt,Clothing,South,Chennai,4,627.53,0,2510.12,1018.16,Cash
+ORD-10202,2026-05-20,Customer 205,Monitor,Electronics,East,Kolkata,5,11645.09,0.1,52402.9,14169.98,Debit Card
+ORD-10203,2026-03-31,Customer 073,Jeans,Clothing,Central,Bhopal,1,1455.31,0.05,1382.54,445.04,UPI
+ORD-10204,2026-05-11,Customer 296,Office Chair,Furniture,West,Ahmedabad,5,7737.52,0.15,32884.46,2067.67,Debit Card
+ORD-10205,2026-08-06,Customer 012,Monitor,Electronics,South,Bengaluru,4,13988.92,0.05,53157.9,8898.18,Cash
+ORD-10206,2026-08-05,Customer 306,Jeans,Clothing,West,Ahmedabad,2,1421.0,0,2842.0,1159.17,Cash
+ORD-10207,2026-05-31,Customer 207,Office Chair,Furniture,Central,Indore,1,8473.75,0,8473.75,1764.32,UPI
+ORD-10208,2026-06-10,Customer 259,Bookshelf,Furniture,North,Jaipur,5,6346.32,0,31731.6,11129.4,Net Banking
+ORD-10209,2026-05-17,Customer 286,Office Chair,Furniture,Central,Indore,5,7223.88,0.15,30701.49,6337.62,Credit Card
+ORD-10210,2026-05-14,Customer 243,Monitor,Electronics,Central,Nagpur,5,12353.81,0,61769.05,25366.12,Cash
+ORD-10211,2026-06-14,Customer 316,Headphones,Electronics,Central,Nagpur,5,2047.65,0.15,8702.51,1981.64,Debit Card
+ORD-10212,2026-04-27,Customer 244,Jacket,Clothing,East,Kolkata,5,3030.23,0.05,14393.59,3028.75,Debit Card
+ORD-10213,2026-11-12,Customer 323,Desk,Furniture,North,Delhi,4,9769.94,0.1,35171.78,5702.6,Net Banking
+ORD-10214,2026-02-20,Customer 269,T-Shirt,Clothing,East,Patna,5,667.6,0.1,3004.2,600.69,Net Banking
+ORD-10215,2026-11-18,Customer 057,Water Bottle,Accessories,West,Mumbai,2,486.34,0,972.68,274.86,UPI
+ORD-10216,2026-10-04,Customer 242,T-Shirt,Clothing,East,Patna,4,606.65,0.05,2305.27,658.84,UPI
+ORD-10217,2026-08-21,Customer 193,Yoga Mat,Sports,South,Chennai,5,851.05,0,4255.25,1110.9,Credit Card
+ORD-10218,2026-11-08,Customer 330,T-Shirt,Clothing,Central,Nagpur,3,663.12,0.05,1889.89,321.8,Debit Card
+ORD-10219,2026-04-26,Customer 148,Jacket,Clothing,West,Ahmedabad,2,3109.72,0,6219.44,2166.61,Credit Card
+ORD-10220,2026-04-14,Customer 148,Yoga Mat,Sports,West,Mumbai,3,905.0,0.05,2579.25,395.64,Net Banking
+ORD-10221,2026-02-07,Customer 149,Running Shoes,Sports,Central,Bhopal,4,3510.62,0,14042.48,4734.67,Debit Card
+ORD-10222,2026-03-14,Customer 104,Yoga Mat,Sports,North,Chandigarh,3,992.95,0.05,2829.91,567.89,Debit Card
+ORD-10223,2025-12-20,Customer 343,Jeans,Clothing,East,Patna,2,1386.04,0.1,2494.87,727.87,Credit Card
+ORD-10224,2026-11-08,Customer 071,Running Shoes,Sports,South,Bengaluru,1,2950.54,0,2950.54,904.7,Net Banking
+ORD-10225,2026-05-08,Customer 147,Headphones,Electronics,West,Ahmedabad,4,2211.09,0,8844.36,1668.58,UPI
+ORD-10226,2025-12-14,Customer 090,Water Bottle,Accessories,North,Jaipur,5,427.99,0.1,1925.95,248.06,Credit Card
+ORD-10227,2026-04-22,Customer 020,Laptop,Electronics,West,Mumbai,4,48931.41,0.1,176153.08,21657.09,Debit Card
+ORD-10228,2026-10-19,Customer 279,Jacket,Clothing,Central,Nagpur,1,3091.93,0,3091.93,961.45,Cash
+ORD-10229,2026-07-17,Customer 332,Headphones,Electronics,Central,Indore,4,2112.05,0.1,7603.38,2032.94,Credit Card
+ORD-10230,2026-10-18,Customer 208,Laptop,Electronics,East,Bhubaneswar,3,53295.42,0.1,143897.63,44429.39,Net Banking
+ORD-10231,2026-05-09,Customer 128,Desk,Furniture,North,Delhi,4,9948.74,0,39794.96,15370.93,Debit Card
+ORD-10232,2026-09-14,Customer 006,Bookshelf,Furniture,South,Chennai,4,6608.12,0.15,22467.61,5221.29,Debit Card
+ORD-10233,2026-11-11,Customer 258,Yoga Mat,Sports,South,Hyderabad,1,942.22,0.05,895.11,312.51,Debit Card
+ORD-10234,2026-07-27,Customer 079,Yoga Mat,Sports,North,Jaipur,3,882.77,0,2648.31,503.8,Net Banking
+ORD-10235,2026-03-16,Customer 127,Desk,Furniture,West,Ahmedabad,5,10457.75,0.1,47059.88,6667.93,Net Banking
+ORD-10236,2026-09-09,Customer 058,Backpack,Accessories,North,Delhi,5,1796.91,0.1,8086.1,2706.65,Net Banking
+ORD-10237,2026-07-09,Customer 060,Jeans,Clothing,South,Hyderabad,5,1527.1,0,7635.5,1641.05,Credit Card
+ORD-10238,2026-07-15,Customer 068,Yoga Mat,Sports,Central,Nagpur,4,828.01,0.05,3146.44,582.64,Cash
+ORD-10239,2025-12-06,Customer 203,T-Shirt,Clothing,Central,Indore,1,664.91,0.05,631.66,196.83,UPI
+ORD-10240,2026-08-29,Customer 031,Yoga Mat,Sports,South,Bengaluru,5,824.46,0,4122.3,1038.44,Cash
+ORD-10241,2026-10-21,Customer 216,Laptop,Electronics,East,Bhubaneswar,4,48858.99,0,195435.96,51992.61,Cash
+ORD-10242,2026-02-01,Customer 335,T-Shirt,Clothing,West,Pune,4,596.48,0.15,2028.03,143.41,UPI
+ORD-10243,2025-11-26,Customer 012,Headphones,Electronics,Central,Indore,4,2235.96,0.1,8049.46,2384.02,Cash
+ORD-10244,2026-05-21,Customer 080,Running Shoes,Sports,Central,Indore,4,3254.48,0.1,11716.13,3392.43,Credit Card
+ORD-10245,2025-12-03,Customer 124,Yoga Mat,Sports,North,Delhi,1,970.28,0,970.28,229.13,UPI
+ORD-10246,2026-03-30,Customer 023,Smartphone,Electronics,Central,Indore,1,27950.08,0.05,26552.58,4490.72,Cash
+ORD-10247,2026-04-22,Customer 120,Monitor,Electronics,Central,Nagpur,2,13324.56,0.1,23984.21,7631.44,Net Banking
+ORD-10248,2026-02-06,Customer 339,Desk,Furniture,Central,Nagpur,5,10164.6,0.1,45740.7,13373.72,Credit Card
+ORD-10249,2026-02-22,Customer 321,Bookshelf,Furniture,East,Patna,3,5663.15,0.15,14441.03,1000.14,Cash
+ORD-10250,2026-08-20,Customer 164,Jeans,Clothing,West,Ahmedabad,1,1670.86,0.15,1420.23,181.92,Cash
+ORD-10251,2026-03-20,Customer 154,Bookshelf,Furniture,South,Hyderabad,3,6093.49,0.1,16452.42,3772.27,Credit Card
+ORD-10252,2026-02-01,Customer 199,Water Bottle,Accessories,West,Mumbai,1,460.68,0.15,391.58,62.77,Debit Card
+ORD-10253,2026-03-02,Customer 027,Monitor,Electronics,East,Bhubaneswar,1,13786.12,0.1,12407.51,4105.63,Cash
+ORD-10254,2026-09-21,Customer 344,Running Shoes,Sports,Central,Nagpur,5,2907.84,0,14539.2,3298.71,Credit Card
+ORD-10255,2026-03-02,Customer 061,T-Shirt,Clothing,South,Hyderabad,3,628.36,0.15,1602.32,413.15,Cash
+ORD-10256,2026-04-18,Customer 195,Monitor,Electronics,Central,Indore,2,12340.74,0,24681.48,8461.12,Net Banking
+ORD-10257,2026-01-14,Customer 241,Running Shoes,Sports,East,Bhubaneswar,3,3064.14,0.05,8732.8,2304.11,Credit Card
+ORD-10258,2025-12-03,Customer 134,Desk,Furniture,East,Patna,4,8645.55,0.1,31123.98,4914.11,Net Banking
+ORD-10259,2026-03-30,Customer 256,Jacket,Clothing,West,Ahmedabad,3,2613.89,0,7841.67,2578.64,Debit Card
+ORD-10260,2026-02-04,Customer 280,Office Chair,Furniture,West,Pune,4,7810.78,0.1,28118.81,7357.06,Credit Card
+ORD-10261,2026-11-02,Customer 025,Jeans,Clothing,North,Delhi,5,1361.16,0.1,6125.22,633.99,Cash
+ORD-10262,2026-06-04,Customer 031,Headphones,Electronics,South,Hyderabad,1,2322.27,0,2322.27,693.49,Net Banking
+ORD-10263,2026-08-23,Customer 141,T-Shirt,Clothing,West,Ahmedabad,1,585.95,0.05,556.65,215.13,Debit Card
+ORD-10264,2026-01-13,Customer 269,Laptop,Electronics,Central,Bhopal,4,56022.56,0.15,190476.7,54748.84,Credit Card
+ORD-10265,2026-01-04,Customer 192,Monitor,Electronics,Central,Indore,5,11944.15,0,59720.75,13688.91,Cash
+ORD-10266,2026-10-23,Customer 017,Jacket,Clothing,South,Bengaluru,2,2704.78,0.1,4868.6,1626.39,Cash
+ORD-10267,2026-01-06,Customer 256,Bookshelf,Furniture,West,Pune,5,6229.27,0.05,29589.03,6270.29,Debit Card
+ORD-10268,2026-11-14,Customer 291,Jacket,Clothing,North,Jaipur,5,3086.2,0,15431.0,3143.21,Debit Card
+ORD-10269,2026-05-05,Customer 009,Laptop,Electronics,North,Delhi,3,57088.13,0.05,162701.17,62015.45,Net Banking
+ORD-10270,2026-06-12,Customer 347,Headphones,Electronics,West,Ahmedabad,1,2124.85,0.05,2018.61,497.2,Debit Card
+ORD-10271,2026-07-06,Customer 119,Bookshelf,Furniture,South,Bengaluru,1,6263.08,0.15,5323.62,1610.32,Debit Card
+ORD-10272,2026-04-13,Customer 231,Jacket,Clothing,Central,Indore,5,2764.37,0.1,12439.66,4324.71,Credit Card
+ORD-10273,2026-01-07,Customer 317,Desk,Furniture,Central,Indore,4,9452.56,0.05,35919.73,7994.55,Credit Card
+ORD-10274,2026-02-11,Customer 200,Yoga Mat,Sports,North,Jaipur,1,863.06,0,863.06,200.11,Debit Card
+ORD-10275,2026-01-16,Customer 068,Smartphone,Electronics,North,Delhi,1,31008.64,0,31008.64,7357.63,Credit Card
+ORD-10276,2026-05-25,Customer 284,Bookshelf,Furniture,West,Mumbai,5,6336.67,0,31683.35,13107.31,Net Banking
+ORD-10277,2026-09-07,Customer 125,Jacket,Clothing,East,Patna,4,2527.6,0,10110.4,2355.72,Net Banking
+ORD-10278,2025-12-27,Customer 086,Headphones,Electronics,West,Pune,2,2047.2,0,4094.4,1235.08,Debit Card
+ORD-10279,2026-10-11,Customer 254,Bookshelf,Furniture,East,Patna,4,6647.56,0,26590.24,5142.2,Net Banking
+ORD-10280,2026-10-08,Customer 195,Monitor,Electronics,West,Pune,1,11622.6,0,11622.6,3777.74,Cash
+ORD-10281,2026-03-07,Customer 246,Desk,Furniture,West,Pune,5,8834.5,0,44172.5,8509.97,Credit Card
+ORD-10282,2026-03-29,Customer 167,Bookshelf,Furniture,East,Bhubaneswar,3,6582.37,0.05,18759.75,2719.9,Debit Card
+ORD-10283,2026-08-31,Customer 093,Backpack,Accessories,West,Ahmedabad,3,1665.1,0.05,4745.53,1138.25,Net Banking
+ORD-10284,2026-06-22,Customer 345,Laptop,Electronics,West,Pune,2,51815.92,0,103631.84,26293.42,Credit Card
+ORD-10285,2026-06-06,Customer 038,Running Shoes,Sports,East,Bhubaneswar,2,3057.89,0,6115.78,1947.57,Net Banking
+ORD-10286,2026-06-27,Customer 279,T-Shirt,Clothing,Central,Bhopal,4,661.41,0.15,2248.79,162.14,Debit Card
+ORD-10287,2026-10-27,Customer 341,Yoga Mat,Sports,Central,Indore,5,936.36,0,4681.8,1102.33,Credit Card
+ORD-10288,2026-05-13,Customer 221,Running Shoes,Sports,Central,Bhopal,1,3276.51,0.05,3112.68,703.73,UPI
+ORD-10289,2026-09-15,Customer 114,Smartphone,Electronics,East,Bhubaneswar,2,28345.77,0.05,53856.96,13077.35,Debit Card
+ORD-10290,2026-07-30,Customer 054,Bookshelf,Furniture,West,Pune,5,6521.76,0,32608.8,5887.56,Cash
+ORD-10291,2026-08-18,Customer 248,Smartphone,Electronics,North,Jaipur,2,27345.7,0,54691.4,12676.11,Cash
+ORD-10292,2026-01-22,Customer 012,Smartphone,Electronics,West,Pune,4,27164.48,0,108657.92,24508.38,UPI
+ORD-10293,2026-07-01,Customer 237,Running Shoes,Sports,South,Bengaluru,2,3243.26,0.05,6162.19,1884.74,Cash
+ORD-10294,2026-10-05,Customer 102,Running Shoes,Sports,South,Chennai,2,3330.9,0,6661.8,2751.28,Net Banking
+ORD-10295,2025-12-27,Customer 296,Bookshelf,Furniture,West,Mumbai,1,6541.26,0,6541.26,1566.25,Net Banking
+ORD-10296,2026-08-02,Customer 271,Headphones,Electronics,East,Patna,3,2075.38,0,6226.14,1612.77,Debit Card
+ORD-10297,2026-07-17,Customer 317,Jacket,Clothing,West,Mumbai,5,2761.81,0,13809.05,4633.26,Debit Card
+ORD-10298,2026-01-23,Customer 094,Jacket,Clothing,Central,Indore,1,2934.02,0,2934.02,1064.29,Credit Card
+ORD-10299,2026-08-01,Customer 326,Jeans,Clothing,West,Ahmedabad,4,1546.82,0.05,5877.92,1661.11,Credit Card
+ORD-10300,2026-10-08,Customer 028,Jeans,Clothing,South,Chennai,4,1445.32,0,5781.28,1259.88,UPI
+ORD-10301,2026-08-05,Customer 210,T-Shirt,Clothing,South,Hyderabad,2,701.58,0.15,1192.69,208.65,Cash
+ORD-10302,2026-03-17,Customer 150,Bookshelf,Furniture,West,Mumbai,4,5808.13,0.05,22070.89,4158.35,Debit Card
+ORD-10303,2026-08-05,Customer 282,Monitor,Electronics,Central,Nagpur,3,11712.57,0.05,33380.82,6739.25,UPI
+ORD-10304,2025-12-16,Customer 226,Jacket,Clothing,North,Chandigarh,3,2997.47,0.1,8093.17,2085.82,Credit Card
+ORD-10305,2026-05-22,Customer 045,Bookshelf,Furniture,North,Jaipur,2,5986.07,0.15,10176.32,1940.26,UPI
+ORD-10306,2026-11-23,Customer 313,Water Bottle,Accessories,South,Hyderabad,2,485.26,0.05,921.99,277.42,Cash
+ORD-10307,2026-09-12,Customer 180,Headphones,Electronics,Central,Nagpur,2,2359.87,0.1,4247.77,597.97,Debit Card
+ORD-10308,2026-04-10,Customer 264,Jacket,Clothing,Central,Nagpur,2,2719.37,0.1,4894.87,1362.73,UPI
+ORD-10309,2026-01-31,Customer 128,Headphones,Electronics,West,Mumbai,1,2460.36,0.1,2214.32,712.39,Debit Card
+ORD-10310,2026-06-25,Customer 193,Backpack,Accessories,South,Chennai,4,1813.83,0.05,6892.55,2216.55,UPI
+ORD-10311,2026-06-01,Customer 233,Running Shoes,Sports,North,Jaipur,4,3242.99,0,12971.96,2533.16,Debit Card
+ORD-10312,2026-05-27,Customer 033,Jacket,Clothing,North,Chandigarh,1,2970.25,0.05,2821.74,625.55,Cash
+ORD-10313,2026-09-01,Customer 296,Monitor,Electronics,West,Mumbai,2,12610.47,0,25220.94,8876.2,Net Banking
+ORD-10314,2026-10-11,Customer 236,Backpack,Accessories,West,Mumbai,3,1974.09,0.1,5330.04,1829.82,UPI
+ORD-10315,2026-11-12,Customer 068,Backpack,Accessories,South,Hyderabad,4,1800.78,0.15,6122.65,1205.28,Debit Card
+ORD-10316,2026-10-23,Customer 085,Headphones,Electronics,East,Kolkata,1,2296.82,0,2296.82,759.69,Cash
+ORD-10317,2026-03-14,Customer 245,Running Shoes,Sports,East,Kolkata,2,3182.18,0,6364.36,2527.64,Credit Card
+ORD-10318,2026-01-25,Customer 217,Jacket,Clothing,South,Hyderabad,5,2938.87,0,14694.35,3718.5,Credit Card
+ORD-10319,2026-05-04,Customer 189,T-Shirt,Clothing,North,Jaipur,2,639.78,0.1,1151.6,378.0,Credit Card
+ORD-10320,2026-02-17,Customer 226,Bookshelf,Furniture,South,Chennai,2,5673.31,0.05,10779.29,2536.24,Credit Card
+ORD-10321,2026-01-15,Customer 072,Running Shoes,Sports,South,Bengaluru,4,3313.72,0,13254.88,4875.96,Net Banking
+ORD-10322,2026-04-15,Customer 331,Yoga Mat,Sports,West,Mumbai,3,1000.72,0,3002.16,1160.16,Credit Card
+ORD-10323,2025-12-08,Customer 338,Jeans,Clothing,Central,Indore,5,1587.99,0,7939.95,1541.09,Credit Card
+ORD-10324,2026-03-27,Customer 254,Jeans,Clothing,Central,Indore,5,1412.25,0,7061.25,1870.66,UPI
+ORD-10325,2026-05-28,Customer 163,Monitor,Electronics,West,Mumbai,5,11445.28,0.1,51503.76,18146.72,Cash
+ORD-10326,2026-01-01,Customer 009,Backpack,Accessories,Central,Nagpur,4,1764.7,0.05,6705.86,1319.61,UPI
+ORD-10327,2026-08-11,Customer 147,Laptop,Electronics,East,Patna,2,47255.62,0,94511.24,21791.49,Net Banking
+ORD-10328,2026-10-06,Customer 079,Water Bottle,Accessories,West,Pune,4,474.48,0,1897.92,552.72,UPI
+ORD-10329,2026-05-11,Customer 201,Office Chair,Furniture,North,Chandigarh,5,8600.31,0.15,36551.32,10006.87,UPI
+ORD-10330,2026-07-15,Customer 314,Office Chair,Furniture,West,Ahmedabad,2,7119.37,0,14238.74,4495.51,UPI
+ORD-10331,2026-08-06,Customer 178,Office Chair,Furniture,South,Hyderabad,1,7041.73,0,7041.73,2938.34,Net Banking
+ORD-10332,2026-01-24,Customer 016,Water Bottle,Accessories,East,Bhubaneswar,2,441.82,0.1,795.28,97.53,Cash
+ORD-10333,2026-08-06,Customer 234,Office Chair,Furniture,Central,Nagpur,1,7471.22,0.15,6350.54,892.01,Debit Card
+ORD-10334,2026-09-14,Customer 346,Laptop,Electronics,West,Ahmedabad,5,48709.12,0,243545.6,57087.34,UPI
+ORD-10335,2026-07-24,Customer 187,Monitor,Electronics,Central,Indore,1,11371.1,0.1,10233.99,2971.36,Credit Card
+ORD-10336,2026-03-19,Customer 165,Headphones,Electronics,North,Delhi,5,2368.71,0.1,10659.19,1926.13,Cash
+ORD-10337,2026-11-04,Customer 027,Yoga Mat,Sports,East,Kolkata,3,973.55,0.05,2774.62,996.95,Credit Card
+ORD-10338,2026-04-18,Customer 160,Water Bottle,Accessories,Central,Indore,1,499.45,0,499.45,154.02,UPI
+ORD-10339,2026-10-09,Customer 125,Jeans,Clothing,West,Pune,1,1471.74,0,1471.74,341.03,Debit Card
+ORD-10340,2026-02-10,Customer 004,Jacket,Clothing,West,Pune,2,2971.2,0.05,5645.28,1063.49,UPI
+ORD-10341,2026-05-15,Customer 001,Monitor,Electronics,Central,Nagpur,3,12998.84,0.05,37046.69,14338.91,Cash
+ORD-10342,2025-12-25,Customer 073,Backpack,Accessories,East,Patna,1,1701.26,0.15,1446.07,287.93,Debit Card
+ORD-10343,2026-06-03,Customer 235,Smartphone,Electronics,North,Chandigarh,2,30727.29,0.05,58381.85,12401.33,UPI
+ORD-10344,2026-09-11,Customer 032,Jacket,Clothing,North,Jaipur,5,2602.24,0.1,11710.08,3929.91,Credit Card
+ORD-10345,2026-05-11,Customer 163,Monitor,Electronics,East,Bhubaneswar,3,13590.01,0.15,34654.53,7162.95,Debit Card
+ORD-10346,2026-01-18,Customer 085,Monitor,Electronics,North,Jaipur,2,11624.31,0.1,20923.76,6831.53,Cash
+ORD-10347,2026-05-01,Customer 238,Desk,Furniture,West,Pune,1,9670.08,0.15,8219.57,2129.04,UPI
+ORD-10348,2026-05-11,Customer 076,Smartphone,Electronics,South,Bengaluru,3,30290.54,0.05,86328.04,32742.94,Credit Card
+ORD-10349,2026-02-22,Customer 016,Desk,Furniture,West,Pune,5,8652.31,0,43261.55,9655.05,Cash
+ORD-10350,2026-01-26,Customer 007,Jeans,Clothing,Central,Bhopal,2,1381.26,0,2762.52,633.96,Credit Card
+ORD-10351,2026-09-19,Customer 301,Headphones,Electronics,South,Chennai,4,2160.16,0.05,8208.61,1860.12,UPI
+ORD-10352,2026-05-13,Customer 063,Laptop,Electronics,North,Delhi,2,57124.56,0,114249.12,44453.19,Cash
+ORD-10353,2026-06-08,Customer 350,Laptop,Electronics,South,Chennai,5,51755.31,0.1,232898.89,51995.88,Credit Card
+ORD-10354,2026-10-05,Customer 318,Desk,Furniture,South,Hyderabad,2,9124.71,0,18249.42,7013.77,Credit Card
+ORD-10355,2026-04-17,Customer 197,Running Shoes,Sports,East,Kolkata,4,3170.04,0.05,12046.15,4506.08,Cash
+ORD-10356,2026-06-08,Customer 184,Monitor,Electronics,Central,Indore,2,12984.57,0.1,23372.23,3356.18,Net Banking
+ORD-10357,2026-02-25,Customer 014,Water Bottle,Accessories,West,Pune,3,495.36,0.05,1411.78,411.33,Net Banking
+ORD-10358,2026-09-20,Customer 120,Monitor,Electronics,North,Delhi,3,11411.13,0.15,29098.38,4893.19,UPI
+ORD-10359,2026-03-17,Customer 295,Monitor,Electronics,South,Chennai,3,12717.65,0.1,34337.65,5459.89,Debit Card
+ORD-10360,2026-05-27,Customer 303,Backpack,Accessories,South,Bengaluru,2,1713.67,0,3427.34,832.35,Debit Card
+ORD-10361,2026-08-04,Customer 278,Jacket,Clothing,Central,Indore,2,2866.88,0,5733.76,1048.58,Credit Card
+ORD-10362,2026-07-27,Customer 001,T-Shirt,Clothing,North,Jaipur,1,593.03,0.05,563.38,216.59,Net Banking
+ORD-10363,2026-05-09,Customer 031,Monitor,Electronics,South,Bengaluru,3,13221.58,0.15,33715.03,2672.29,Credit Card
+ORD-10364,2026-06-04,Customer 340,Jacket,Clothing,South,Chennai,1,3041.43,0.1,2737.29,272.11,Net Banking
+ORD-10365,2026-07-06,Customer 328,Smartphone,Electronics,East,Bhubaneswar,3,27187.24,0.15,69327.46,7686.01,Debit Card
+ORD-10366,2026-02-22,Customer 194,Headphones,Electronics,Central,Indore,5,2360.9,0,11804.5,3289.35,Debit Card
+ORD-10367,2026-09-11,Customer 017,Headphones,Electronics,South,Bengaluru,1,2439.21,0.15,2073.33,429.34,Net Banking
+ORD-10368,2026-05-13,Customer 040,Desk,Furniture,Central,Bhopal,2,9886.86,0,19773.72,5950.22,Debit Card
+ORD-10369,2026-05-15,Customer 229,Desk,Furniture,South,Bengaluru,1,10267.27,0.05,9753.91,2001.83,Debit Card
+ORD-10370,2025-12-19,Customer 198,Monitor,Electronics,South,Chennai,1,12213.82,0.1,10992.44,1796.66,Cash
+ORD-10371,2026-07-28,Customer 296,Headphones,Electronics,West,Ahmedabad,4,2406.78,0,9627.12,3176.15,Credit Card
+ORD-10372,2026-04-07,Customer 054,Headphones,Electronics,West,Mumbai,1,2366.81,0,2366.81,982.66,Debit Card
+ORD-10373,2026-01-11,Customer 174,Headphones,Electronics,West,Ahmedabad,2,2334.28,0.05,4435.13,721.06,Net Banking
+ORD-10374,2026-02-13,Customer 028,T-Shirt,Clothing,North,Delhi,4,719.77,0,2879.08,594.41,Debit Card
+ORD-10375,2026-04-09,Customer 339,Monitor,Electronics,South,Chennai,4,13167.29,0.1,47402.24,7626.82,Debit Card
+ORD-10376,2025-12-22,Customer 185,Monitor,Electronics,North,Delhi,1,12330.48,0.05,11713.96,3109.41,Cash
+ORD-10377,2026-10-17,Customer 150,Smartphone,Electronics,East,Kolkata,5,28158.82,0,140794.1,52140.46,Cash
+ORD-10378,2026-04-09,Customer 047,Backpack,Accessories,North,Chandigarh,3,1930.81,0.05,5502.81,899.16,Net Banking
+ORD-10379,2026-04-08,Customer 226,Bookshelf,Furniture,South,Chennai,3,6787.81,0,20363.43,6374.04,Debit Card
+ORD-10380,2026-01-07,Customer 343,Monitor,Electronics,East,Bhubaneswar,5,11419.51,0.1,51387.8,9124.63,Net Banking
+ORD-10381,2026-06-27,Customer 275,Bookshelf,Furniture,Central,Nagpur,2,6335.11,0.1,11403.2,1565.82,Cash
+ORD-10382,2025-12-12,Customer 258,Jacket,Clothing,South,Hyderabad,4,2704.09,0,10816.36,2326.11,Net Banking
+ORD-10383,2026-02-18,Customer 109,Water Bottle,Accessories,Central,Bhopal,5,419.6,0.15,1783.3,340.36,Credit Card
+ORD-10384,2026-10-12,Customer 076,Laptop,Electronics,West,Ahmedabad,1,58105.92,0,58105.92,10497.15,Debit Card
+ORD-10385,2026-04-15,Customer 267,Desk,Furniture,North,Jaipur,1,9361.13,0,9361.13,3198.97,UPI
+ORD-10386,2026-02-08,Customer 291,Water Bottle,Accessories,Central,Nagpur,5,456.73,0,2283.65,731.99,Net Banking
+ORD-10387,2026-08-26,Customer 177,Water Bottle,Accessories,North,Jaipur,1,460.71,0,460.71,161.86,Debit Card
+ORD-10388,2026-02-06,Customer 317,Bookshelf,Furniture,West,Ahmedabad,5,6410.62,0,32053.1,11343.61,Cash
+ORD-10389,2026-04-11,Customer 191,Laptop,Electronics,West,Mumbai,3,54699.48,0,164098.44,50205.53,Debit Card
+ORD-10390,2026-01-14,Customer 117,Backpack,Accessories,East,Kolkata,3,1731.02,0.05,4933.41,1053.76,Debit Card
+ORD-10391,2026-03-01,Customer 227,Yoga Mat,Sports,West,Mumbai,3,863.35,0,2590.05,686.54,Cash
+ORD-10392,2026-02-14,Customer 034,Yoga Mat,Sports,West,Pune,5,981.7,0.1,4417.65,963.71,Net Banking
+ORD-10393,2026-03-07,Customer 030,Bookshelf,Furniture,South,Bengaluru,5,6779.41,0,33897.05,12668.57,UPI
+ORD-10394,2026-08-10,Customer 204,T-Shirt,Clothing,North,Chandigarh,3,685.76,0,2057.28,457.45,UPI
+ORD-10395,2026-07-25,Customer 301,Running Shoes,Sports,North,Chandigarh,2,3142.22,0.05,5970.22,2057.4,Debit Card
+ORD-10396,2026-06-10,Customer 026,Desk,Furniture,South,Bengaluru,3,10115.33,0.05,28828.69,9151.84,Net Banking
+ORD-10397,2026-06-22,Customer 263,Water Bottle,Accessories,South,Bengaluru,2,469.09,0.05,891.27,286.54,UPI
+ORD-10398,2026-04-30,Customer 330,T-Shirt,Clothing,South,Chennai,2,670.96,0,1341.92,482.32,Cash
+ORD-10399,2026-10-10,Customer 204,Bookshelf,Furniture,East,Patna,4,5923.73,0.05,22510.17,4916.05,UPI
+ORD-10400,2026-11-10,Customer 056,Laptop,Electronics,Central,Indore,3,53223.07,0.05,151685.75,48245.26,UPI
+ORD-10401,2026-10-24,Customer 153,Desk,Furniture,East,Kolkata,3,10350.52,0,31051.56,7742.32,Credit Card
+ORD-10402,2026-10-29,Customer 164,Jeans,Clothing,South,Hyderabad,1,1615.79,0.1,1454.21,284.37,Credit Card
+ORD-10403,2026-06-11,Customer 019,Yoga Mat,Sports,North,Chandigarh,4,1007.5,0,4030.0,1287.76,Net Banking
+ORD-10404,2026-07-26,Customer 344,Backpack,Accessories,South,Chennai,3,1907.71,0,5723.13,1669.37,Net Banking
+ORD-10405,2026-04-06,Customer 287,Office Chair,Furniture,South,Bengaluru,5,7330.83,0,36654.15,14269.22,Debit Card
+ORD-10406,2026-05-13,Customer 191,Running Shoes,Sports,North,Jaipur,2,3130.12,0.1,5634.22,1541.9,Net Banking
+ORD-10407,2026-10-08,Customer 037,Office Chair,Furniture,West,Pune,1,7827.44,0.1,7044.7,1408.49,Credit Card
+ORD-10408,2026-02-10,Customer 071,Jeans,Clothing,North,Delhi,4,1524.85,0,6099.4,1286.95,Debit Card
+ORD-10409,2026-01-05,Customer 250,Bookshelf,Furniture,Central,Indore,4,5775.36,0.1,20791.3,6392.5,Credit Card
+ORD-10410,2026-09-16,Customer 082,Desk,Furniture,North,Jaipur,1,9494.79,0,9494.79,2225.1,UPI
+ORD-10411,2026-06-09,Customer 003,Headphones,Electronics,Central,Bhopal,4,2286.61,0,9146.44,1722.47,Net Banking
+ORD-10412,2025-12-04,Customer 347,Monitor,Electronics,East,Kolkata,1,13703.02,0.1,12332.72,2638.54,Credit Card
+ORD-10413,2026-02-18,Customer 034,Monitor,Electronics,East,Kolkata,3,11604.56,0,34813.68,9703.24,Debit Card
+ORD-10414,2026-02-01,Customer 176,Office Chair,Furniture,West,Pune,5,8043.37,0,40216.85,8320.31,Debit Card
+ORD-10415,2026-03-21,Customer 115,Water Bottle,Accessories,South,Hyderabad,2,498.86,0.15,848.06,172.79,Credit Card
+ORD-10416,2025-12-14,Customer 193,Monitor,Electronics,North,Chandigarh,5,12637.74,0,63188.7,15755.06,Debit Card
+ORD-10417,2026-10-25,Customer 011,Water Bottle,Accessories,Central,Bhopal,5,409.81,0.15,1741.69,227.7,UPI
+ORD-10418,2026-03-10,Customer 323,Bookshelf,Furniture,West,Mumbai,4,5748.58,0,22994.32,5784.26,Debit Card
+ORD-10419,2026-01-17,Customer 262,Bookshelf,Furniture,North,Chandigarh,5,5948.25,0.05,28254.19,10025.21,Net Banking
+ORD-10420,2026-04-08,Customer 268,Smartphone,Electronics,East,Kolkata,1,30034.12,0.05,28532.41,6722.82,Debit Card
+ORD-10421,2026-11-12,Customer 247,Yoga Mat,Sports,West,Pune,3,841.75,0.05,2398.99,382.61,Credit Card
+ORD-10422,2026-02-09,Customer 047,Laptop,Electronics,North,Chandigarh,1,57174.71,0.1,51457.24,9115.64,UPI
+ORD-10423,2026-04-09,Customer 238,Yoga Mat,Sports,North,Delhi,3,937.58,0.05,2672.1,380.98,UPI
+ORD-10424,2026-07-01,Customer 060,Backpack,Accessories,South,Bengaluru,1,1957.49,0,1957.49,504.2,UPI
+ORD-10425,2026-04-11,Customer 048,Laptop,Electronics,South,Chennai,2,50559.88,0.1,91007.78,9179.51,Debit Card
+ORD-10426,2026-11-13,Customer 245,Headphones,Electronics,North,Jaipur,4,2173.72,0.05,8260.14,1473.18,Credit Card
+ORD-10427,2026-09-23,Customer 248,Smartphone,Electronics,South,Hyderabad,1,31246.47,0.1,28121.82,9221.11,Cash
+ORD-10428,2026-01-30,Customer 248,Headphones,Electronics,Central,Indore,4,2357.12,0.05,8957.06,1536.67,UPI
+ORD-10429,2026-11-07,Customer 269,Bookshelf,Furniture,West,Ahmedabad,1,5666.39,0.05,5383.07,2079.75,Net Banking
+ORD-10430,2026-08-19,Customer 317,Yoga Mat,Sports,Central,Bhopal,2,1003.62,0.05,1906.88,579.71,Cash
+ORD-10431,2026-09-06,Customer 314,Running Shoes,Sports,South,Bengaluru,4,3123.41,0.05,11868.96,3468.61,UPI
+ORD-10432,2026-01-02,Customer 252,Running Shoes,Sports,South,Chennai,5,3477.59,0.1,15649.16,1935.98,Credit Card
+ORD-10433,2026-03-25,Customer 041,Desk,Furniture,East,Bhubaneswar,1,9609.48,0.05,9129.01,2682.27,Cash
+ORD-10434,2026-08-06,Customer 335,Water Bottle,Accessories,Central,Bhopal,4,413.71,0.05,1572.1,486.77,UPI
+ORD-10435,2026-09-30,Customer 317,Bookshelf,Furniture,West,Ahmedabad,1,6339.93,0,6339.93,2524.47,Debit Card
+ORD-10436,2025-12-22,Customer 115,Jeans,Clothing,Central,Indore,2,1566.02,0.05,2975.44,902.64,Debit Card
+ORD-10437,2026-01-22,Customer 050,Jeans,Clothing,Central,Nagpur,5,1506.13,0.05,7154.12,1492.43,Credit Card
+ORD-10438,2026-08-19,Customer 192,Laptop,Electronics,East,Patna,3,56293.87,0.15,143549.37,33763.48,UPI
+ORD-10439,2026-01-18,Customer 131,Laptop,Electronics,South,Hyderabad,4,48406.74,0.1,174264.26,28429.43,Credit Card
+ORD-10440,2026-05-17,Customer 056,Monitor,Electronics,North,Jaipur,4,11842.87,0.1,42634.33,12992.15,UPI
+ORD-10441,2026-08-10,Customer 069,Running Shoes,Sports,Central,Indore,1,3423.59,0.05,3252.41,725.7,UPI
+ORD-10442,2026-08-12,Customer 091,Jeans,Clothing,North,Chandigarh,5,1658.65,0.1,7463.93,1692.63,Net Banking
+ORD-10443,2026-08-10,Customer 197,Headphones,Electronics,South,Chennai,1,2167.5,0.05,2059.12,342.79,Net Banking
+ORD-10444,2026-02-01,Customer 071,Yoga Mat,Sports,South,Chennai,3,888.78,0,2666.34,931.61,Net Banking
+ORD-10445,2026-09-04,Customer 324,Yoga Mat,Sports,Central,Bhopal,3,976.93,0.05,2784.25,863.59,Credit Card
+ORD-10446,2026-11-23,Customer 333,Monitor,Electronics,Central,Bhopal,3,13138.18,0.15,33502.36,9386.92,Net Banking
+ORD-10447,2026-11-01,Customer 214,Jeans,Clothing,East,Patna,1,1601.06,0.05,1521.01,368.45,Net Banking
+ORD-10448,2026-11-03,Customer 029,Office Chair,Furniture,West,Mumbai,1,7917.0,0,7917.0,3049.01,Debit Card
+ORD-10449,2026-04-25,Customer 105,Water Bottle,Accessories,South,Hyderabad,3,472.66,0,1417.98,574.44,UPI
+ORD-10450,2026-03-19,Customer 332,Desk,Furniture,West,Ahmedabad,1,9837.67,0.05,9345.79,2313.31,Cash
+ORD-10451,2026-06-26,Customer 161,Monitor,Electronics,Central,Nagpur,3,13155.57,0,39466.71,12961.66,UPI
+ORD-10452,2026-03-20,Customer 325,Laptop,Electronics,East,Patna,2,53899.23,0.1,97018.61,11984.13,Debit Card
+ORD-10453,2026-03-04,Customer 151,Water Bottle,Accessories,Central,Indore,5,478.11,0,2390.55,588.12,Credit Card
+ORD-10454,2025-12-15,Customer 220,Running Shoes,Sports,North,Jaipur,2,3557.58,0.1,6403.64,2073.03,Net Banking
+ORD-10455,2026-11-23,Customer 080,Office Chair,Furniture,South,Bengaluru,2,8022.12,0,16044.24,5465.71,Credit Card
+ORD-10456,2026-04-28,Customer 252,Desk,Furniture,Central,Nagpur,1,10166.95,0.05,9658.6,1704.45,Net Banking
+ORD-10457,2026-08-10,Customer 082,Desk,Furniture,North,Jaipur,3,9648.08,0.15,24602.6,4198.49,Net Banking
+ORD-10458,2026-05-13,Customer 185,Jeans,Clothing,West,Pune,1,1465.3,0.1,1318.77,235.62,Credit Card
+ORD-10459,2026-10-23,Customer 005,Water Bottle,Accessories,Central,Bhopal,5,452.01,0.05,2147.05,428.25,Debit Card
+ORD-10460,2026-05-08,Customer 196,T-Shirt,Clothing,South,Bengaluru,5,716.36,0,3581.8,1470.08,Cash
+ORD-10461,2026-08-15,Customer 261,Office Chair,Furniture,Central,Indore,3,7062.4,0.05,20127.84,3921.36,Cash
+ORD-10462,2026-08-27,Customer 274,Laptop,Electronics,East,Kolkata,2,50464.38,0,100928.76,40065.74,UPI
+ORD-10463,2026-07-05,Customer 332,Monitor,Electronics,South,Bengaluru,4,13548.08,0,54192.32,11981.94,Credit Card
+ORD-10464,2026-04-02,Customer 286,Laptop,Electronics,West,Mumbai,3,47233.42,0,141700.26,53460.94,Net Banking
+ORD-10465,2026-05-05,Customer 009,Backpack,Accessories,South,Chennai,3,1781.42,0.05,5077.05,1458.63,UPI
+ORD-10466,2026-01-01,Customer 184,Jeans,Clothing,North,Chandigarh,5,1370.87,0.1,6168.91,2118.51,UPI
+ORD-10467,2026-06-15,Customer 339,Office Chair,Furniture,East,Kolkata,5,7168.44,0.1,32257.98,7704.56,Cash
+ORD-10468,2026-08-31,Customer 152,Headphones,Electronics,Central,Nagpur,2,2046.01,0,4092.02,935.45,Credit Card
+ORD-10469,2025-11-27,Customer 294,Office Chair,Furniture,East,Patna,1,7969.85,0.05,7571.36,2713.13,Cash
+ORD-10470,2026-05-20,Customer 109,Jeans,Clothing,Central,Indore,1,1450.55,0.1,1305.49,149.62,Net Banking
+ORD-10471,2026-02-25,Customer 344,Headphones,Electronics,South,Hyderabad,2,2086.86,0.1,3756.35,1140.94,UPI
+ORD-10472,2026-04-02,Customer 051,Backpack,Accessories,Central,Bhopal,4,1875.29,0,7501.16,1941.27,Net Banking
+ORD-10473,2026-10-08,Customer 036,T-Shirt,Clothing,East,Kolkata,3,603.33,0.05,1719.49,626.24,Debit Card
+ORD-10474,2026-09-10,Customer 291,T-Shirt,Clothing,West,Pune,3,673.14,0,2019.42,565.03,Debit Card
+ORD-10475,2026-10-19,Customer 224,Bookshelf,Furniture,South,Chennai,1,6007.22,0.1,5406.5,895.51,Debit Card
+ORD-10476,2026-09-03,Customer 056,Headphones,Electronics,East,Kolkata,4,2204.02,0,8816.08,3056.42,Net Banking
+ORD-10477,2026-10-11,Customer 040,Smartphone,Electronics,East,Patna,2,30690.39,0,61380.78,14973.8,UPI
+ORD-10478,2026-03-13,Customer 019,Laptop,Electronics,Central,Nagpur,1,56096.63,0.05,53291.8,10399.86,Debit Card
+ORD-10479,2026-09-22,Customer 149,Jeans,Clothing,Central,Bhopal,4,1565.79,0,6263.16,2040.54,Cash
+ORD-10480,2026-10-05,Customer 085,Jeans,Clothing,Central,Nagpur,1,1480.94,0.05,1406.89,312.41,Credit Card
+ORD-10481,2026-02-07,Customer 248,T-Shirt,Clothing,South,Chennai,2,665.99,0.05,1265.38,214.01,UPI
+ORD-10482,2026-03-10,Customer 266,Monitor,Electronics,West,Pune,2,11422.87,0,22845.74,9360.49,Cash
+ORD-10483,2026-08-18,Customer 325,T-Shirt,Clothing,West,Pune,1,590.71,0.05,561.17,203.92,Debit Card
+ORD-10484,2026-10-25,Customer 040,Jacket,Clothing,Central,Nagpur,5,2627.09,0.05,12478.68,3708.52,Debit Card
+ORD-10485,2026-07-29,Customer 310,Bookshelf,Furniture,South,Bengaluru,5,6133.57,0.1,27601.06,7274.17,Net Banking
+ORD-10486,2026-02-09,Customer 096,Headphones,Electronics,West,Mumbai,2,2091.32,0.05,3973.51,1265.69,Debit Card
+ORD-10487,2026-11-05,Customer 246,Jacket,Clothing,North,Jaipur,2,2775.4,0,5550.8,2180.35,Credit Card
+ORD-10488,2026-02-15,Customer 069,Jacket,Clothing,South,Hyderabad,4,2533.83,0,10135.32,2861.84,Net Banking
+ORD-10489,2026-06-20,Customer 307,Laptop,Electronics,Central,Nagpur,2,47439.63,0,94879.26,35749.65,UPI
+ORD-10490,2026-07-29,Customer 088,Yoga Mat,Sports,East,Kolkata,1,852.89,0.05,810.25,219.08,Cash
+ORD-10491,2026-04-09,Customer 086,Jacket,Clothing,South,Hyderabad,5,3025.4,0,15127.0,3958.5,Debit Card
+ORD-10492,2025-12-03,Customer 104,T-Shirt,Clothing,Central,Nagpur,5,594.84,0,2974.2,1154.79,Net Banking
+ORD-10493,2026-09-28,Customer 020,Running Shoes,Sports,West,Ahmedabad,2,3306.28,0,6612.56,1346.41,Net Banking
+ORD-10494,2025-11-25,Customer 348,Water Bottle,Accessories,North,Chandigarh,1,452.74,0,452.74,124.58,Cash
+ORD-10495,2026-07-29,Customer 196,Jeans,Clothing,West,Pune,3,1638.69,0.05,4670.27,1312.84,Net Banking
+ORD-10496,2026-01-06,Customer 146,Water Bottle,Accessories,Central,Nagpur,1,447.12,0,447.12,105.61,Net Banking
+ORD-10497,2026-08-19,Customer 061,Bookshelf,Furniture,East,Patna,2,5587.46,0.1,10057.43,3556.9,UPI
+ORD-10498,2026-09-20,Customer 130,Bookshelf,Furniture,South,Chennai,3,6137.66,0,18412.98,5850.59,Net Banking
+ORD-10499,2026-03-09,Customer 212,Bookshelf,Furniture,Central,Nagpur,3,6414.61,0.15,16357.26,3360.19,Net Banking
+ORD-10500,2026-09-16,Customer 177,T-Shirt,Clothing,South,Hyderabad,3,664.95,0.05,1895.11,264.83,Cash
+ORD-10501,2026-02-15,Customer 052,Yoga Mat,Sports,South,Bengaluru,1,958.07,0,958.07,241.59,Net Banking
+ORD-10502,2026-06-12,Customer 326,Bookshelf,Furniture,East,Kolkata,5,6417.53,0.05,30483.27,11471.57,UPI
+ORD-10503,2026-03-18,Customer 190,Backpack,Accessories,South,Bengaluru,4,1986.64,0,7946.56,3215.34,Net Banking
+ORD-10504,2026-09-26,Customer 030,Laptop,Electronics,West,Mumbai,4,53823.77,0.05,204530.33,42889.93,Cash
+ORD-10505,2026-03-04,Customer 018,T-Shirt,Clothing,North,Chandigarh,2,706.63,0.15,1201.27,205.83,Net Banking
+ORD-10506,2025-11-25,Customer 081,Jeans,Clothing,South,Bengaluru,5,1405.93,0,7029.65,2548.8,Debit Card
+ORD-10507,2025-12-02,Customer 036,Water Bottle,Accessories,West,Mumbai,3,471.3,0,1413.9,525.87,Net Banking
+ORD-10508,2026-10-01,Customer 100,Office Chair,Furniture,Central,Indore,5,7617.33,0.15,32373.65,7755.89,Cash
+ORD-10509,2026-08-09,Customer 151,Jacket,Clothing,North,Jaipur,3,2627.82,0.05,7489.29,1859.94,UPI
+ORD-10510,2026-11-15,Customer 227,Water Bottle,Accessories,Central,Indore,3,491.74,0.1,1327.7,268.53,Net Banking
+ORD-10511,2026-09-21,Customer 015,T-Shirt,Clothing,South,Chennai,3,722.46,0.05,2059.01,562.28,UPI
+ORD-10512,2026-03-22,Customer 162,Office Chair,Furniture,North,Jaipur,4,8107.36,0.15,27565.02,3487.49,Debit Card
+ORD-10513,2026-06-17,Customer 345,Jeans,Clothing,Central,Nagpur,1,1581.27,0,1581.27,555.11,Debit Card
+ORD-10514,2026-04-11,Customer 094,Smartphone,Electronics,Central,Nagpur,2,28135.58,0,56271.16,11556.08,Credit Card
+ORD-10515,2026-03-08,Customer 128,T-Shirt,Clothing,South,Hyderabad,2,690.17,0.1,1242.31,373.21,Debit Card
+ORD-10516,2026-10-05,Customer 004,Headphones,Electronics,North,Chandigarh,1,2425.37,0.05,2304.1,511.21,UPI
+ORD-10517,2026-09-15,Customer 141,Backpack,Accessories,West,Pune,3,1865.78,0.05,5317.47,747.32,Credit Card
+ORD-10518,2026-08-21,Customer 217,Water Bottle,Accessories,Central,Indore,3,444.39,0.1,1199.85,385.58,Net Banking
+ORD-10519,2026-01-25,Customer 266,Laptop,Electronics,Central,Indore,3,51304.12,0.05,146216.74,50490.63,Debit Card
+ORD-10520,2026-05-29,Customer 314,Yoga Mat,Sports,North,Jaipur,1,943.47,0,943.47,373.44,Credit Card
+ORD-10521,2026-02-27,Customer 256,Jeans,Clothing,East,Bhubaneswar,2,1438.9,0.15,2446.13,540.04,Credit Card
+ORD-10522,2026-01-31,Customer 295,Bookshelf,Furniture,East,Patna,3,6745.3,0,20235.9,7625.43,Credit Card
+ORD-10523,2026-03-05,Customer 075,Backpack,Accessories,North,Chandigarh,3,1938.42,0.05,5524.5,956.53,Credit Card
+ORD-10524,2026-10-13,Customer 265,T-Shirt,Clothing,North,Chandigarh,2,645.28,0,1290.56,265.36,Debit Card
+ORD-10525,2026-01-14,Customer 084,Water Bottle,Accessories,West,Mumbai,3,429.85,0.1,1160.6,397.9,Credit Card
+ORD-10526,2026-04-07,Customer 185,Backpack,Accessories,East,Bhubaneswar,4,1952.23,0,7808.92,1884.27,Net Banking
+ORD-10527,2026-10-01,Customer 102,Jeans,Clothing,East,Patna,3,1356.55,0,4069.65,862.08,Net Banking
+ORD-10528,2026-08-13,Customer 250,Running Shoes,Sports,Central,Nagpur,2,3569.48,0,7138.96,2441.37,Cash
+ORD-10529,2026-02-18,Customer 328,Smartphone,Electronics,West,Pune,5,26964.99,0.05,128083.7,45198.23,Cash
+ORD-10530,2026-05-19,Customer 117,Running Shoes,Sports,Central,Indore,5,3164.96,0.15,13451.08,3972.23,Debit Card
+ORD-10531,2026-05-29,Customer 301,Running Shoes,Sports,East,Patna,3,3306.19,0,9918.57,2052.69,Cash
+ORD-10532,2026-04-02,Customer 041,Bookshelf,Furniture,South,Bengaluru,2,6745.14,0,13490.28,4906.27,Credit Card
+ORD-10533,2025-12-08,Customer 204,Bookshelf,Furniture,North,Chandigarh,1,5667.01,0.1,5100.31,1067.53,UPI
+ORD-10534,2026-05-02,Customer 118,Smartphone,Electronics,East,Kolkata,5,26156.49,0.05,124243.33,20596.52,Debit Card
+ORD-10535,2026-05-26,Customer 167,T-Shirt,Clothing,South,Chennai,2,660.32,0,1320.64,543.53,Cash
+ORD-10536,2026-08-28,Customer 091,Backpack,Accessories,Central,Nagpur,3,1837.22,0,5511.66,1060.24,Net Banking
+ORD-10537,2026-05-21,Customer 247,T-Shirt,Clothing,Central,Nagpur,4,659.85,0.05,2507.43,780.42,Credit Card
+ORD-10538,2025-11-30,Customer 001,Water Bottle,Accessories,North,Chandigarh,4,435.48,0,1741.92,666.51,Credit Card
+ORD-10539,2026-07-27,Customer 154,Desk,Furniture,East,Kolkata,4,9668.36,0.05,36739.77,9743.25,Cash
+ORD-10540,2026-06-23,Customer 288,Water Bottle,Accessories,East,Bhubaneswar,5,427.89,0,2139.45,706.71,Cash
+ORD-10541,2026-10-11,Customer 123,Monitor,Electronics,South,Hyderabad,4,13528.17,0,54112.68,21698.63,Net Banking
+ORD-10542,2026-03-01,Customer 036,Water Bottle,Accessories,East,Kolkata,3,469.2,0.05,1337.22,430.0,Credit Card
+ORD-10543,2026-03-01,Customer 165,Office Chair,Furniture,North,Delhi,4,8080.02,0,32320.08,8743.85,Credit Card
+ORD-10544,2026-07-07,Customer 005,Laptop,Electronics,Central,Bhopal,1,48927.13,0,48927.13,17388.37,UPI
+ORD-10545,2026-08-07,Customer 191,Headphones,Electronics,North,Jaipur,4,2085.12,0,8340.48,1930.2,UPI
+ORD-10546,2026-07-23,Customer 093,Desk,Furniture,North,Delhi,2,8667.12,0.1,15600.82,5249.98,Debit Card
+ORD-10547,2026-07-09,Customer 127,Backpack,Accessories,West,Ahmedabad,1,1668.3,0.1,1501.47,434.17,UPI
+ORD-10548,2026-11-08,Customer 160,Monitor,Electronics,West,Pune,1,12683.13,0.15,10780.66,1985.19,Credit Card
+ORD-10549,2026-03-06,Customer 185,Running Shoes,Sports,North,Delhi,5,3246.73,0,16233.65,4330.41,Credit Card
+ORD-10550,2026-01-25,Customer 203,Smartphone,Electronics,South,Bengaluru,4,27199.0,0,108796.0,38485.06,UPI
+ORD-10551,2026-04-01,Customer 081,Laptop,Electronics,Central,Indore,4,54675.37,0,218701.48,51396.75,UPI
+ORD-10552,2025-12-25,Customer 183,Running Shoes,Sports,Central,Nagpur,3,3535.32,0.15,9015.07,1272.38,Credit Card
+ORD-10553,2026-10-21,Customer 178,Yoga Mat,Sports,Central,Indore,1,834.91,0,834.91,153.96,Credit Card
+ORD-10554,2026-11-21,Customer 225,Laptop,Electronics,West,Ahmedabad,3,55087.13,0,165261.39,67843.56,Debit Card
+ORD-10555,2026-07-22,Customer 141,Jeans,Clothing,West,Ahmedabad,2,1537.01,0.05,2920.32,898.59,Net Banking
+ORD-10556,2026-05-31,Customer 233,Headphones,Electronics,North,Delhi,5,2055.03,0,10275.15,3666.13,Net Banking
+ORD-10557,2026-05-08,Customer 033,Bookshelf,Furniture,South,Hyderabad,1,6425.32,0,6425.32,1742.24,Net Banking
+ORD-10558,2026-10-04,Customer 145,Backpack,Accessories,West,Pune,2,1827.53,0.05,3472.31,868.62,Cash
+ORD-10559,2026-01-30,Customer 092,Running Shoes,Sports,East,Kolkata,1,2947.76,0.05,2800.37,1059.7,Credit Card
+ORD-10560,2026-10-27,Customer 251,Smartphone,Electronics,West,Ahmedabad,2,25808.32,0.05,49035.81,8738.09,Net Banking
+ORD-10561,2025-12-01,Customer 107,Yoga Mat,Sports,Central,Nagpur,3,819.72,0,2459.16,609.18,Cash
+ORD-10562,2026-06-25,Customer 189,Backpack,Accessories,North,Chandigarh,4,1937.2,0,7748.8,2216.74,UPI
+ORD-10563,2026-01-03,Customer 111,Backpack,Accessories,Central,Nagpur,3,1829.49,0.1,4939.62,657.13,UPI
+ORD-10564,2026-09-12,Customer 321,Smartphone,Electronics,South,Bengaluru,5,27573.64,0,137868.2,36169.67,Net Banking
+ORD-10565,2026-11-05,Customer 235,Yoga Mat,Sports,Central,Nagpur,4,957.73,0.1,3447.83,695.79,Cash
+ORD-10566,2026-08-25,Customer 308,Smartphone,Electronics,South,Chennai,2,28587.79,0.05,54316.8,12132.22,Debit Card
+ORD-10567,2026-05-09,Customer 312,Desk,Furniture,Central,Bhopal,3,10315.74,0,30947.22,8294.54,Net Banking
+ORD-10568,2026-07-14,Customer 230,Jeans,Clothing,South,Chennai,4,1602.68,0.15,5449.11,1339.96,UPI
+ORD-10569,2026-04-28,Customer 004,Yoga Mat,Sports,North,Jaipur,3,927.96,0.05,2644.69,366.31,Credit Card
+ORD-10570,2026-09-04,Customer 262,Monitor,Electronics,East,Patna,1,13371.69,0.15,11365.94,971.31,Net Banking
+ORD-10571,2026-05-31,Customer 299,Jacket,Clothing,South,Bengaluru,1,2543.25,0,2543.25,983.68,Credit Card
+ORD-10572,2026-01-03,Customer 167,Office Chair,Furniture,East,Bhubaneswar,1,7998.96,0.05,7599.01,2542.19,Credit Card
+ORD-10573,2026-09-16,Customer 196,T-Shirt,Clothing,Central,Bhopal,1,670.12,0,670.12,163.92,UPI
+ORD-10574,2026-01-25,Customer 117,Water Bottle,Accessories,East,Patna,3,492.1,0,1476.3,290.45,Net Banking
+ORD-10575,2026-02-09,Customer 168,Laptop,Electronics,West,Ahmedabad,1,50286.72,0,50286.72,14604.11,Credit Card
+ORD-10576,2026-01-10,Customer 114,Headphones,Electronics,North,Jaipur,4,2449.98,0.1,8819.93,1782.99,Debit Card
+ORD-10577,2025-12-20,Customer 281,Water Bottle,Accessories,West,Pune,2,418.09,0,836.18,236.52,Debit Card
+ORD-10578,2026-07-29,Customer 287,Smartphone,Electronics,West,Mumbai,5,27876.47,0.05,132413.23,26080.12,Cash
+ORD-10579,2026-03-29,Customer 037,Bookshelf,Furniture,Central,Indore,2,6345.43,0.15,10787.23,1829.77,Cash
+ORD-10580,2026-03-02,Customer 165,Desk,Furniture,Central,Indore,1,8785.19,0,8785.19,2919.63,Net Banking
+ORD-10581,2026-07-09,Customer 320,Running Shoes,Sports,North,Delhi,3,2999.16,0,8997.48,2004.82,Cash
+ORD-10582,2026-01-07,Customer 058,Laptop,Electronics,South,Hyderabad,2,54640.51,0,109281.02,26791.68,UPI
+ORD-10583,2026-11-15,Customer 057,Monitor,Electronics,Central,Indore,2,13639.07,0.1,24550.33,8639.1,Cash
+ORD-10584,2026-08-19,Customer 133,T-Shirt,Clothing,North,Chandigarh,3,614.89,0.05,1752.44,592.3,Cash
+ORD-10585,2026-04-04,Customer 088,Jacket,Clothing,South,Bengaluru,1,2751.99,0.15,2339.19,395.1,Debit Card
+ORD-10586,2026-06-11,Customer 339,Monitor,Electronics,Central,Indore,3,11395.98,0.05,32478.54,12581.15,Debit Card
+ORD-10587,2026-06-07,Customer 261,Backpack,Accessories,North,Chandigarh,1,1735.83,0.1,1562.25,394.44,UPI
+ORD-10588,2026-07-17,Customer 288,Desk,Furniture,West,Ahmedabad,5,9660.96,0,48304.8,14483.89,UPI
+ORD-10589,2025-12-04,Customer 178,Laptop,Electronics,South,Hyderabad,5,50288.37,0.05,238869.76,48112.45,Debit Card
+ORD-10590,2025-12-26,Customer 321,Desk,Furniture,East,Bhubaneswar,2,10631.63,0.15,18073.77,4333.22,Cash
+ORD-10591,2026-06-14,Customer 337,Backpack,Accessories,North,Delhi,5,1995.85,0,9979.25,3372.7,UPI
+ORD-10592,2026-03-21,Customer 214,Yoga Mat,Sports,West,Mumbai,5,1000.2,0.05,4750.95,1099.59,Net Banking
+ORD-10593,2026-03-10,Customer 335,Headphones,Electronics,West,Mumbai,3,2420.31,0,7260.93,2104.68,Net Banking
+ORD-10594,2026-02-02,Customer 221,Jeans,Clothing,South,Bengaluru,2,1451.97,0.1,2613.55,564.2,Net Banking
+ORD-10595,2026-05-06,Customer 075,Headphones,Electronics,East,Patna,1,2249.75,0.15,1912.29,543.51,UPI
+ORD-10596,2026-10-17,Customer 141,Water Bottle,Accessories,East,Kolkata,4,500.16,0,2000.64,482.26,Credit Card
+ORD-10597,2026-10-01,Customer 291,Smartphone,Electronics,South,Hyderabad,2,25361.38,0.15,43114.35,6184.77,Credit Card
+ORD-10598,2026-07-27,Customer 069,Jacket,Clothing,South,Hyderabad,2,2943.42,0,5886.84,1500.24,Net Banking
+ORD-10599,2026-03-03,Customer 116,T-Shirt,Clothing,East,Kolkata,2,706.85,0.05,1343.01,476.41,Cash
+ORD-10600,2026-03-08,Customer 105,Water Bottle,Accessories,North,Delhi,3,499.07,0,1497.21,387.6,Credit Card
+ORD-10601,2026-07-01,Customer 208,T-Shirt,Clothing,Central,Bhopal,4,683.36,0.1,2460.1,292.43,Net Banking
+ORD-10602,2026-08-26,Customer 269,Yoga Mat,Sports,West,Ahmedabad,3,888.04,0.15,2264.5,353.62,UPI
+ORD-10603,2026-03-30,Customer 266,Jeans,Clothing,North,Chandigarh,4,1500.78,0.1,5402.81,656.34,Cash
+ORD-10604,2026-03-02,Customer 150,Yoga Mat,Sports,North,Jaipur,5,886.7,0.1,3990.15,394.48,Cash
+ORD-10605,2026-11-13,Customer 265,Office Chair,Furniture,East,Kolkata,4,7305.69,0,29222.76,5827.96,Cash
+ORD-10606,2026-11-16,Customer 280,Backpack,Accessories,West,Mumbai,1,1906.17,0,1906.17,444.34,Cash
+ORD-10607,2026-03-08,Customer 233,Bookshelf,Furniture,East,Kolkata,4,5613.98,0.05,21333.12,3476.44,Debit Card
+ORD-10608,2026-01-07,Customer 269,Desk,Furniture,South,Hyderabad,1,8740.59,0.1,7866.53,1466.87,Cash
+ORD-10609,2026-02-20,Customer 172,Yoga Mat,Sports,Central,Nagpur,5,998.05,0,4990.25,1640.07,Credit Card
+ORD-10610,2026-07-11,Customer 148,Headphones,Electronics,South,Hyderabad,2,2352.27,0,4704.54,1628.08,Credit Card
+ORD-10611,2026-08-06,Customer 256,Smartphone,Electronics,South,Hyderabad,2,25221.76,0.1,45399.17,15994.14,UPI
+ORD-10612,2026-07-09,Customer 041,Jacket,Clothing,West,Ahmedabad,2,2653.59,0.05,5041.82,1385.72,Net Banking
+ORD-10613,2026-03-11,Customer 026,Laptop,Electronics,South,Bengaluru,5,49981.61,0.05,237412.65,43276.8,Credit Card
+ORD-10614,2026-09-29,Customer 153,Laptop,Electronics,East,Bhubaneswar,1,48463.08,0,48463.08,13630.62,UPI
+ORD-10615,2026-10-29,Customer 305,Laptop,Electronics,North,Chandigarh,4,58168.33,0,232673.32,81842.53,Net Banking
+ORD-10616,2026-05-09,Customer 189,Headphones,Electronics,West,Pune,5,2154.33,0,10771.65,2537.34,UPI
+ORD-10617,2026-04-14,Customer 169,Water Bottle,Accessories,West,Ahmedabad,5,411.43,0.05,1954.29,700.9,Cash
+ORD-10618,2026-10-13,Customer 271,Jeans,Clothing,South,Bengaluru,2,1551.98,0,3103.96,760.05,Cash
+ORD-10619,2026-09-15,Customer 320,Yoga Mat,Sports,Central,Indore,3,894.56,0.1,2415.31,691.53,Credit Card
+ORD-10620,2026-02-25,Customer 313,Jacket,Clothing,Central,Bhopal,4,2840.14,0.05,10792.53,2860.57,Debit Card
+ORD-10621,2026-03-11,Customer 316,Monitor,Electronics,North,Jaipur,1,11315.96,0.05,10750.16,3866.64,Cash
+ORD-10622,2026-03-08,Customer 145,Laptop,Electronics,East,Bhubaneswar,3,53211.15,0.05,151651.78,58631.56,UPI
+ORD-10623,2026-05-14,Customer 175,Office Chair,Furniture,East,Bhubaneswar,5,7963.79,0.1,35837.06,11654.18,Net Banking
+ORD-10624,2026-07-28,Customer 243,Jacket,Clothing,North,Delhi,2,2639.51,0.1,4751.12,520.79,Credit Card
+ORD-10625,2026-06-24,Customer 029,T-Shirt,Clothing,South,Hyderabad,4,712.56,0.05,2707.73,825.36,Debit Card
+ORD-10626,2026-05-25,Customer 034,Jacket,Clothing,East,Kolkata,5,2850.11,0,14250.55,3640.75,Debit Card
+ORD-10627,2026-09-13,Customer 311,Backpack,Accessories,North,Jaipur,3,2009.51,0.05,5727.1,1011.72,Credit Card
+ORD-10628,2026-06-24,Customer 045,Jacket,Clothing,North,Jaipur,3,2954.44,0,8863.32,3655.31,Credit Card
+ORD-10629,2025-12-14,Customer 104,Desk,Furniture,West,Mumbai,3,9001.73,0,27005.19,10614.78,Cash
+ORD-10630,2026-07-30,Customer 269,Jeans,Clothing,North,Jaipur,4,1648.64,0,6594.56,2231.42,Debit Card
+ORD-10631,2026-07-18,Customer 199,Headphones,Electronics,North,Chandigarh,5,2307.53,0,11537.65,2839.45,Net Banking
+ORD-10632,2026-01-08,Customer 171,Smartphone,Electronics,North,Jaipur,3,30943.2,0.05,88188.12,21106.76,UPI
+ORD-10633,2026-03-12,Customer 165,Smartphone,Electronics,Central,Bhopal,3,25338.48,0.1,68413.9,12669.94,Credit Card
+ORD-10634,2026-02-09,Customer 081,Office Chair,Furniture,East,Bhubaneswar,5,7567.66,0,37838.3,14823.68,UPI
+ORD-10635,2026-05-07,Customer 139,Laptop,Electronics,Central,Bhopal,5,52680.85,0,263404.25,88483.72,Debit Card
+ORD-10636,2026-07-10,Customer 026,Jacket,Clothing,South,Bengaluru,2,2563.89,0.05,4871.39,1480.4,UPI
+ORD-10637,2026-11-20,Customer 306,T-Shirt,Clothing,North,Chandigarh,1,639.85,0,639.85,208.55,Cash
+ORD-10638,2026-08-25,Customer 041,Jacket,Clothing,East,Bhubaneswar,3,2724.72,0,8174.16,1945.31,Net Banking
+ORD-10639,2026-07-21,Customer 241,Headphones,Electronics,North,Delhi,4,2027.08,0,8108.32,2151.46,Credit Card
+ORD-10640,2026-10-31,Customer 170,Headphones,Electronics,Central,Indore,3,2421.83,0,7265.49,1831.58,Cash
+ORD-10641,2026-02-20,Customer 145,T-Shirt,Clothing,North,Jaipur,1,652.97,0,652.97,201.96,Net Banking
+ORD-10642,2026-05-10,Customer 285,Jacket,Clothing,South,Hyderabad,5,2583.41,0.1,11625.34,1663.43,UPI
+ORD-10643,2026-03-29,Customer 281,Water Bottle,Accessories,East,Kolkata,5,450.64,0.05,2140.54,704.67,Cash
+ORD-10644,2026-07-05,Customer 291,Bookshelf,Furniture,North,Jaipur,3,5864.04,0.05,16712.51,4688.72,Net Banking
+ORD-10645,2026-09-14,Customer 250,Yoga Mat,Sports,South,Bengaluru,2,941.2,0,1882.4,370.07,Net Banking
+ORD-10646,2026-06-20,Customer 036,Jacket,Clothing,West,Ahmedabad,3,2861.93,0.1,7727.21,2384.43,UPI
+ORD-10647,2026-03-16,Customer 072,Running Shoes,Sports,Central,Nagpur,4,3110.5,0.05,11819.9,4419.95,UPI
+ORD-10648,2026-07-11,Customer 101,Water Bottle,Accessories,South,Bengaluru,2,449.84,0,899.68,244.95,Debit Card
+ORD-10649,2026-05-20,Customer 046,Office Chair,Furniture,Central,Nagpur,3,8596.15,0.15,21920.18,2520.31,UPI
+ORD-10650,2026-09-02,Customer 028,Jacket,Clothing,Central,Bhopal,4,3042.14,0.1,10951.7,3711.67,Net Banking
+ORD-10651,2026-11-19,Customer 303,Backpack,Accessories,East,Bhubaneswar,1,1961.05,0.1,1764.94,516.81,Debit Card
+ORD-10652,2026-07-26,Customer 072,Yoga Mat,Sports,West,Mumbai,4,885.55,0.05,3365.09,747.41,Net Banking
+ORD-10653,2026-02-01,Customer 006,Bookshelf,Furniture,East,Kolkata,4,5790.42,0.15,19687.43,2528.89,UPI
+ORD-10654,2026-06-25,Customer 234,Headphones,Electronics,West,Ahmedabad,4,2451.89,0,9807.56,3796.18,Net Banking
+ORD-10655,2026-06-09,Customer 182,Bookshelf,Furniture,Central,Bhopal,2,6199.79,0,12399.58,2767.37,Credit Card
+ORD-10656,2026-08-08,Customer 138,Bookshelf,Furniture,Central,Indore,1,6368.31,0.1,5731.48,1676.01,Net Banking
+ORD-10657,2026-01-21,Customer 298,Jacket,Clothing,East,Bhubaneswar,1,3122.59,0.05,2966.46,627.1,UPI
+ORD-10658,2026-01-09,Customer 126,Headphones,Electronics,Central,Indore,3,2205.03,0,6615.09,1365.49,UPI
+ORD-10659,2025-11-30,Customer 241,Running Shoes,Sports,Central,Indore,5,3100.0,0,15500.0,5232.01,Net Banking
+ORD-10660,2026-04-22,Customer 086,T-Shirt,Clothing,Central,Bhopal,3,645.21,0.15,1645.29,151.81,Net Banking
+ORD-10661,2026-09-14,Customer 027,Yoga Mat,Sports,East,Patna,5,861.57,0.05,4092.46,996.18,Debit Card
+ORD-10662,2026-04-16,Customer 130,Water Bottle,Accessories,Central,Bhopal,1,433.39,0,433.39,129.43,Net Banking
+ORD-10663,2026-09-23,Customer 078,Office Chair,Furniture,East,Patna,3,7044.37,0,21133.11,7990.27,Cash
+ORD-10664,2026-08-22,Customer 017,Desk,Furniture,South,Chennai,3,10185.48,0,30556.44,11507.73,UPI
+ORD-10665,2026-06-09,Customer 122,Headphones,Electronics,Central,Nagpur,2,2385.41,0.1,4293.74,1053.84,Cash
+ORD-10666,2026-04-09,Customer 060,Yoga Mat,Sports,South,Bengaluru,2,924.4,0.1,1663.92,567.51,Credit Card
+ORD-10667,2026-08-24,Customer 120,T-Shirt,Clothing,West,Pune,4,628.1,0.1,2261.16,350.27,Cash
+ORD-10668,2026-07-12,Customer 196,T-Shirt,Clothing,East,Patna,2,660.85,0,1321.7,463.51,Debit Card
+ORD-10669,2026-07-04,Customer 313,Jeans,Clothing,North,Chandigarh,1,1652.85,0.05,1570.21,232.25,Debit Card
+ORD-10670,2026-07-19,Customer 346,Desk,Furniture,East,Patna,3,10226.84,0,30680.52,8584.33,Credit Card
+ORD-10671,2026-05-04,Customer 281,Yoga Mat,Sports,Central,Bhopal,2,912.95,0.05,1734.61,240.35,UPI
+ORD-10672,2026-05-23,Customer 113,Backpack,Accessories,North,Chandigarh,1,1782.85,0.05,1693.71,366.34,Debit Card
+ORD-10673,2026-10-27,Customer 112,Office Chair,Furniture,South,Hyderabad,1,7060.67,0,7060.67,1375.13,UPI
+ORD-10674,2026-10-22,Customer 290,Yoga Mat,Sports,North,Delhi,1,979.58,0,979.58,257.11,UPI
+ORD-10675,2026-07-15,Customer 142,Yoga Mat,Sports,South,Chennai,3,868.32,0.05,2474.71,916.5,Debit Card
+ORD-10676,2025-12-25,Customer 133,Office Chair,Furniture,South,Chennai,1,7495.83,0,7495.83,2449.17,Credit Card
+ORD-10677,2026-10-21,Customer 252,T-Shirt,Clothing,North,Delhi,4,725.06,0,2900.24,944.8,Credit Card
+ORD-10678,2026-04-06,Customer 053,Jeans,Clothing,West,Mumbai,2,1552.61,0,3105.22,975.1,UPI
+ORD-10679,2026-10-25,Customer 328,Smartphone,Electronics,Central,Bhopal,3,29987.78,0,89963.34,27038.63,UPI
+ORD-10680,2025-11-26,Customer 264,Running Shoes,Sports,West,Ahmedabad,3,2986.73,0,8960.19,2921.75,Cash
+ORD-10681,2026-08-28,Customer 116,T-Shirt,Clothing,West,Mumbai,4,705.7,0.1,2540.52,371.22,Cash
+ORD-10682,2026-11-09,Customer 156,Yoga Mat,Sports,West,Pune,1,922.31,0.15,783.96,169.57,UPI
+ORD-10683,2026-07-18,Customer 149,Running Shoes,Sports,North,Chandigarh,3,3256.38,0.15,8303.77,2449.03,Credit Card
+ORD-10684,2026-06-12,Customer 055,Headphones,Electronics,Central,Nagpur,1,2448.28,0.05,2325.87,730.26,Debit Card
+ORD-10685,2026-09-24,Customer 123,T-Shirt,Clothing,North,Jaipur,4,690.15,0,2760.6,1031.52,Cash
+ORD-10686,2025-12-03,Customer 019,Smartphone,Electronics,Central,Indore,3,28278.05,0.15,72109.03,6377.26,UPI
+ORD-10687,2026-07-17,Customer 348,Desk,Furniture,North,Chandigarh,4,8797.01,0.1,31669.24,5624.6,Credit Card
+ORD-10688,2026-10-25,Customer 010,Yoga Mat,Sports,Central,Indore,2,993.11,0,1986.22,766.72,Net Banking
+ORD-10689,2026-01-13,Customer 234,Laptop,Electronics,South,Hyderabad,2,46964.34,0.05,89232.25,14359.92,Credit Card
+ORD-10690,2026-10-06,Customer 113,Backpack,Accessories,Central,Bhopal,1,1943.85,0,1943.85,584.49,Credit Card
+ORD-10691,2026-02-03,Customer 165,Bookshelf,Furniture,East,Kolkata,4,6022.26,0.15,20475.68,3174.16,UPI
+ORD-10692,2026-02-19,Customer 190,Jacket,Clothing,South,Hyderabad,3,2558.94,0,7676.82,1828.53,Credit Card
+ORD-10693,2026-10-04,Customer 193,T-Shirt,Clothing,South,Bengaluru,5,590.82,0,2954.1,639.95,UPI
+ORD-10694,2026-09-24,Customer 146,T-Shirt,Clothing,North,Jaipur,1,586.03,0.15,498.13,58.83,Cash
+ORD-10695,2026-03-27,Customer 090,Yoga Mat,Sports,South,Hyderabad,2,838.33,0,1676.66,522.95,UPI
+ORD-10696,2026-04-28,Customer 179,Jacket,Clothing,South,Chennai,4,2897.02,0,11588.08,2568.43,UPI
+ORD-10697,2026-05-29,Customer 277,Jeans,Clothing,South,Hyderabad,2,1388.78,0.05,2638.68,963.91,Credit Card
+ORD-10698,2026-07-25,Customer 255,T-Shirt,Clothing,South,Bengaluru,3,592.59,0,1777.77,683.0,Credit Card
+ORD-10699,2026-05-15,Customer 316,Running Shoes,Sports,North,Jaipur,1,3333.98,0,3333.98,1052.47,UPI
+ORD-10700,2026-01-23,Customer 037,Smartphone,Electronics,North,Delhi,5,26283.47,0.1,118275.62,26754.64,Cash
+ORD-10701,2026-03-22,Customer 057,Jacket,Clothing,Central,Indore,3,2778.14,0.1,7500.98,870.04,Credit Card
+ORD-10702,2026-07-24,Customer 300,Smartphone,Electronics,South,Chennai,4,30558.5,0,122234.0,44864.88,UPI
+ORD-10703,2026-02-02,Customer 235,Bookshelf,Furniture,South,Hyderabad,2,6845.64,0.05,13006.72,3793.05,Credit Card
+ORD-10704,2025-12-25,Customer 144,Running Shoes,Sports,East,Kolkata,3,3022.36,0,9067.08,2301.85,UPI
+ORD-10705,2026-04-25,Customer 310,Backpack,Accessories,West,Mumbai,4,1785.62,0.1,6428.23,1908.72,Net Banking
+ORD-10706,2026-08-02,Customer 111,Headphones,Electronics,Central,Nagpur,5,2393.82,0,11969.1,2565.29,Cash
+ORD-10707,2026-03-31,Customer 168,Backpack,Accessories,West,Pune,3,1625.74,0,4877.22,1027.03,Net Banking
+ORD-10708,2025-12-17,Customer 021,Monitor,Electronics,Central,Indore,2,13762.83,0.1,24773.09,6048.34,Net Banking
+ORD-10709,2026-01-14,Customer 232,Laptop,Electronics,West,Pune,5,51311.02,0.1,230899.59,39202.43,Credit Card
+ORD-10710,2026-05-27,Customer 152,Smartphone,Electronics,Central,Bhopal,1,29469.86,0,29469.86,10835.43,UPI
+ORD-10711,2026-09-19,Customer 013,Laptop,Electronics,West,Pune,3,48651.02,0.05,138655.41,34022.92,Cash
+ORD-10712,2026-11-20,Customer 325,Water Bottle,Accessories,South,Bengaluru,4,423.31,0.1,1523.92,287.12,UPI
+ORD-10713,2026-10-04,Customer 278,Bookshelf,Furniture,East,Patna,5,5624.62,0,28123.1,9990.75,Credit Card
+ORD-10714,2026-11-05,Customer 187,Water Bottle,Accessories,North,Delhi,5,492.2,0.1,2214.9,755.15,UPI
+ORD-10715,2026-09-07,Customer 035,Bookshelf,Furniture,East,Patna,4,6424.5,0,25698.0,9712.19,Credit Card
+ORD-10716,2026-09-18,Customer 108,Headphones,Electronics,East,Patna,2,2241.18,0.05,4258.24,865.22,Credit Card
+ORD-10717,2026-06-03,Customer 177,Desk,Furniture,East,Bhubaneswar,3,9602.45,0,28807.35,11722.56,Cash
+ORD-10718,2026-04-23,Customer 232,Jeans,Clothing,Central,Nagpur,1,1505.15,0.05,1429.89,258.75,Debit Card
+ORD-10719,2026-02-24,Customer 148,Water Bottle,Accessories,North,Delhi,2,493.3,0.05,937.27,346.06,UPI
+ORD-10720,2026-08-18,Customer 322,Headphones,Electronics,East,Kolkata,1,2317.39,0.05,2201.52,370.79,Debit Card
+ORD-10721,2025-12-05,Customer 150,Bookshelf,Furniture,Central,Bhopal,2,6226.41,0,12452.82,3025.41,UPI
+ORD-10722,2026-10-21,Customer 168,Laptop,Electronics,South,Chennai,5,54175.05,0,270875.25,91482.65,Net Banking
+ORD-10723,2026-04-30,Customer 088,Running Shoes,Sports,Central,Indore,5,3193.46,0,15967.3,6200.6,Credit Card
+ORD-10724,2026-07-16,Customer 086,T-Shirt,Clothing,East,Patna,3,695.07,0,2085.21,699.07,Credit Card
+ORD-10725,2026-11-01,Customer 079,Yoga Mat,Sports,Central,Bhopal,3,846.09,0,2538.27,634.7,Credit Card
+ORD-10726,2026-03-10,Customer 288,Smartphone,Electronics,North,Chandigarh,3,28739.08,0,86217.24,28561.93,UPI
+ORD-10727,2026-08-25,Customer 155,Running Shoes,Sports,East,Kolkata,3,2984.15,0,8952.45,1664.16,UPI
+ORD-10728,2026-08-31,Customer 260,Bookshelf,Furniture,West,Pune,2,6872.78,0.15,11683.73,3196.5,Debit Card
+ORD-10729,2026-07-09,Customer 174,T-Shirt,Clothing,East,Patna,5,680.36,0.1,3061.62,493.77,UPI
+ORD-10730,2026-06-18,Customer 317,Yoga Mat,Sports,West,Mumbai,1,837.61,0.05,795.73,247.98,Cash
+ORD-10731,2026-03-18,Customer 143,Desk,Furniture,North,Delhi,3,8665.02,0.05,24695.31,5978.25,UPI
+ORD-10732,2026-06-14,Customer 100,Smartphone,Electronics,Central,Indore,4,29370.71,0.15,99860.41,4205.71,Debit Card
+ORD-10733,2026-02-08,Customer 219,Jacket,Clothing,Central,Indore,5,3101.14,0.15,13179.84,2842.88,Cash
+ORD-10734,2026-09-08,Customer 045,Desk,Furniture,North,Delhi,3,9270.88,0,27812.64,8707.07,Cash
+ORD-10735,2026-06-30,Customer 213,Yoga Mat,Sports,West,Mumbai,4,867.15,0.1,3121.74,302.16,Net Banking
+ORD-10736,2026-05-15,Customer 034,Jacket,Clothing,North,Chandigarh,2,2647.99,0.05,5031.18,856.86,Cash
+ORD-10737,2026-07-19,Customer 291,Smartphone,Electronics,North,Delhi,4,29135.04,0,116540.16,44055.17,Credit Card
+ORD-10738,2026-09-20,Customer 156,Headphones,Electronics,West,Pune,3,2248.07,0,6744.21,1495.19,Net Banking
+ORD-10739,2026-10-18,Customer 326,Yoga Mat,Sports,West,Pune,2,815.31,0,1630.62,582.06,UPI
+ORD-10740,2025-12-09,Customer 062,Running Shoes,Sports,East,Bhubaneswar,4,3006.28,0.15,10221.35,1385.91,Cash
+ORD-10741,2026-10-12,Customer 244,Smartphone,Electronics,Central,Nagpur,3,28779.37,0.05,82021.2,13951.97,UPI
+ORD-10742,2026-02-07,Customer 164,Desk,Furniture,Central,Indore,5,8586.67,0,42933.35,12038.64,Credit Card
+ORD-10743,2026-05-26,Customer 025,Desk,Furniture,South,Chennai,1,9119.88,0,9119.88,1833.96,Debit Card
+ORD-10744,2026-09-27,Customer 086,Jeans,Clothing,North,Chandigarh,5,1413.96,0.05,6716.31,1318.34,Debit Card
+ORD-10745,2026-08-25,Customer 297,Backpack,Accessories,East,Bhubaneswar,3,1727.5,0.05,4923.38,1466.62,Credit Card
+ORD-10746,2026-02-16,Customer 053,Laptop,Electronics,South,Bengaluru,5,50019.42,0.1,225087.39,55301.8,Credit Card
+ORD-10747,2026-08-21,Customer 273,Jeans,Clothing,South,Hyderabad,2,1612.39,0.05,3063.54,659.41,Net Banking
+ORD-10748,2025-12-03,Customer 246,Yoga Mat,Sports,North,Jaipur,4,901.18,0,3604.72,805.57,Debit Card
+ORD-10749,2026-05-19,Customer 089,Yoga Mat,Sports,East,Patna,2,971.77,0.1,1749.19,343.16,Debit Card
+ORD-10750,2026-05-01,Customer 065,Laptop,Electronics,North,Delhi,2,48272.49,0.05,91717.73,19779.04,Credit Card
+ORD-10751,2025-12-16,Customer 101,Smartphone,Electronics,West,Mumbai,1,25678.85,0.1,23110.97,3549.84,UPI
+ORD-10752,2025-12-28,Customer 155,Water Bottle,Accessories,Central,Nagpur,5,410.87,0,2054.35,738.08,UPI
+ORD-10753,2026-02-27,Customer 344,Water Bottle,Accessories,North,Jaipur,1,496.09,0,496.09,101.06,UPI
+ORD-10754,2026-08-08,Customer 314,Smartphone,Electronics,South,Bengaluru,3,31044.56,0,93133.68,35527.35,Net Banking
+ORD-10755,2026-03-03,Customer 145,Jacket,Clothing,North,Delhi,1,3024.87,0.1,2722.38,584.03,Net Banking
+ORD-10756,2026-11-17,Customer 302,Laptop,Electronics,North,Delhi,2,57330.26,0.1,103194.47,23627.9,Cash
+ORD-10757,2026-08-15,Customer 117,Running Shoes,Sports,North,Jaipur,2,3467.66,0.15,5895.02,1166.64,UPI
+ORD-10758,2026-05-28,Customer 148,Water Bottle,Accessories,East,Patna,1,451.12,0.05,428.56,113.23,UPI
+ORD-10759,2026-05-03,Customer 228,Smartphone,Electronics,East,Kolkata,4,25912.85,0,103651.4,28598.1,Net Banking
+ORD-10760,2026-07-26,Customer 348,Bookshelf,Furniture,East,Bhubaneswar,4,5837.5,0,23350.0,5093.71,Credit Card
+ORD-10761,2026-01-25,Customer 074,Laptop,Electronics,West,Pune,1,51334.47,0.05,48767.75,10658.86,Cash
+ORD-10762,2026-05-30,Customer 102,Yoga Mat,Sports,Central,Indore,1,956.8,0.1,861.12,267.43,Credit Card
+ORD-10763,2026-09-18,Customer 304,Jacket,Clothing,West,Pune,1,2663.45,0,2663.45,799.6,Cash
+ORD-10764,2026-02-08,Customer 233,Desk,Furniture,West,Mumbai,5,10535.79,0.15,44777.11,7757.53,UPI
+ORD-10765,2025-12-22,Customer 035,Office Chair,Furniture,West,Pune,4,7416.09,0.15,25214.71,7797.77,UPI
+ORD-10766,2026-01-13,Customer 040,Headphones,Electronics,West,Ahmedabad,5,2308.73,0,11543.65,3125.19,Net Banking
+ORD-10767,2026-04-07,Customer 278,Water Bottle,Accessories,West,Pune,4,424.99,0.05,1614.96,428.97,Net Banking
+ORD-10768,2026-07-13,Customer 162,Jeans,Clothing,North,Jaipur,1,1676.93,0.1,1509.24,488.67,Cash
+ORD-10769,2026-11-21,Customer 085,T-Shirt,Clothing,North,Jaipur,1,610.29,0.05,579.78,111.66,Cash
+ORD-10770,2026-10-28,Customer 284,Headphones,Electronics,East,Patna,4,2215.93,0,8863.72,2286.79,Net Banking
+ORD-10771,2026-04-08,Customer 254,Jacket,Clothing,West,Ahmedabad,4,2866.35,0,11465.4,4662.1,Cash
+ORD-10772,2026-05-31,Customer 179,Jacket,Clothing,East,Patna,3,2717.42,0,8152.26,3335.67,Net Banking
+ORD-10773,2026-05-23,Customer 029,Laptop,Electronics,East,Patna,4,47913.68,0,191654.72,64057.17,Credit Card
+ORD-10774,2026-04-30,Customer 059,Monitor,Electronics,South,Chennai,3,12879.46,0.15,32842.62,9824.96,Credit Card
+ORD-10775,2026-08-15,Customer 216,Laptop,Electronics,Central,Indore,3,47227.6,0.05,134598.66,38056.92,UPI
+ORD-10776,2026-05-09,Customer 294,Yoga Mat,Sports,West,Mumbai,5,814.4,0,4072.0,1152.84,Cash
+ORD-10777,2026-02-18,Customer 315,Smartphone,Electronics,South,Chennai,3,28259.87,0.1,76301.65,13550.07,Debit Card
+ORD-10778,2026-08-26,Customer 110,Bookshelf,Furniture,South,Chennai,4,6446.75,0.15,21918.95,6496.34,Debit Card
+ORD-10779,2026-01-11,Customer 297,Laptop,Electronics,East,Kolkata,5,51399.19,0,256995.95,62117.69,Net Banking
+ORD-10780,2026-05-21,Customer 040,Desk,Furniture,East,Patna,1,9733.84,0.05,9247.15,2603.75,Debit Card
+ORD-10781,2026-04-02,Customer 320,Jeans,Clothing,East,Patna,4,1568.94,0,6275.76,2011.79,Cash
+ORD-10782,2026-02-28,Customer 296,Running Shoes,Sports,Central,Indore,2,3500.15,0.05,6650.28,1722.81,Credit Card
+ORD-10783,2026-07-05,Customer 290,Running Shoes,Sports,West,Ahmedabad,3,3539.76,0.05,10088.32,2363.2,UPI
+ORD-10784,2026-04-27,Customer 223,Jeans,Clothing,South,Chennai,3,1502.62,0,4507.86,1085.74,Debit Card
+ORD-10785,2026-02-15,Customer 132,Backpack,Accessories,North,Chandigarh,2,1955.0,0,3910.0,1372.84,Net Banking
+ORD-10786,2026-05-02,Customer 238,Monitor,Electronics,West,Pune,2,11562.29,0,23124.58,8349.34,Net Banking
+ORD-10787,2026-04-16,Customer 338,Bookshelf,Furniture,West,Ahmedabad,1,5855.52,0,5855.52,2418.36,Credit Card
+ORD-10788,2026-05-04,Customer 309,Running Shoes,Sports,North,Jaipur,4,3430.69,0,13722.76,2810.95,UPI
+ORD-10789,2026-03-25,Customer 058,Bookshelf,Furniture,East,Patna,1,6121.36,0.1,5509.22,720.72,Net Banking
+ORD-10790,2026-01-10,Customer 122,Smartphone,Electronics,Central,Nagpur,5,31049.99,0.15,131962.46,32535.12,UPI
+ORD-10791,2026-03-25,Customer 217,Water Bottle,Accessories,East,Kolkata,3,487.4,0.1,1315.98,185.11,Credit Card
+ORD-10792,2026-09-22,Customer 029,Smartphone,Electronics,South,Chennai,2,31174.73,0,62349.46,22381.37,Net Banking
+ORD-10793,2026-04-16,Customer 075,Desk,Furniture,North,Jaipur,3,9690.61,0.05,27618.24,9037.76,Cash
+ORD-10794,2026-10-30,Customer 028,Yoga Mat,Sports,East,Patna,3,814.17,0.15,2076.13,304.34,Credit Card
+ORD-10795,2026-11-10,Customer 063,Office Chair,Furniture,Central,Nagpur,4,7550.7,0.15,25672.38,5524.54,Credit Card
+ORD-10796,2026-04-04,Customer 155,Backpack,Accessories,West,Mumbai,4,1623.11,0.15,5518.57,307.73,Credit Card
+ORD-10797,2026-10-20,Customer 209,Office Chair,Furniture,South,Bengaluru,2,8591.67,0.05,16324.17,2730.91,Debit Card
+ORD-10798,2026-06-29,Customer 052,Backpack,Accessories,North,Delhi,4,1806.55,0,7226.2,1576.18,Debit Card
+ORD-10799,2026-05-11,Customer 233,Jeans,Clothing,North,Chandigarh,3,1488.89,0.1,4020.0,842.17,UPI
+ORD-10800,2026-06-18,Customer 103,Water Bottle,Accessories,North,Chandigarh,2,467.39,0.1,841.3,268.6,Debit Card
+ORD-10801,2026-10-23,Customer 067,Desk,Furniture,Central,Nagpur,1,8781.63,0,8781.63,2184.38,Cash
+ORD-10802,2026-11-11,Customer 304,Water Bottle,Accessories,East,Bhubaneswar,4,452.36,0.1,1628.5,465.82,Debit Card
+ORD-10803,2026-09-13,Customer 115,Monitor,Electronics,North,Delhi,4,12260.9,0,49043.6,16157.08,UPI
+ORD-10804,2026-11-19,Customer 087,Jeans,Clothing,Central,Bhopal,2,1649.26,0.15,2803.74,733.64,Cash
+ORD-10805,2026-09-11,Customer 061,Jacket,Clothing,West,Mumbai,5,2680.26,0,13401.3,4445.2,Net Banking
+ORD-10806,2026-04-10,Customer 148,Bookshelf,Furniture,West,Ahmedabad,4,5741.65,0.1,20669.94,6299.04,Cash
+ORD-10807,2026-04-18,Customer 347,Bookshelf,Furniture,South,Bengaluru,4,6748.04,0.05,25642.55,3540.03,Cash
+ORD-10808,2026-07-13,Customer 128,Headphones,Electronics,West,Pune,2,1993.93,0.15,3389.68,851.34,Net Banking
+ORD-10809,2026-11-14,Customer 204,Running Shoes,Sports,West,Ahmedabad,1,2887.27,0,2887.27,988.66,Credit Card
+ORD-10810,2025-12-25,Customer 027,Yoga Mat,Sports,West,Pune,4,955.75,0,3823.0,1518.24,Credit Card
+ORD-10811,2025-12-18,Customer 003,T-Shirt,Clothing,East,Bhubaneswar,5,719.32,0.15,3057.11,454.7,Net Banking
+ORD-10812,2026-09-07,Customer 022,Jacket,Clothing,West,Ahmedabad,3,3122.15,0.05,8898.13,3168.32,Credit Card
+ORD-10813,2026-01-09,Customer 163,Office Chair,Furniture,South,Hyderabad,5,7865.71,0,39328.55,12099.81,Net Banking
+ORD-10814,2026-04-17,Customer 185,Bookshelf,Furniture,South,Chennai,3,5739.37,0,17218.11,6703.2,Debit Card
+ORD-10815,2026-08-03,Customer 078,Office Chair,Furniture,Central,Nagpur,3,7907.13,0,23721.39,9023.71,Cash
+ORD-10816,2026-02-16,Customer 240,Laptop,Electronics,South,Chennai,2,47424.25,0,94848.5,29131.82,UPI
+ORD-10817,2026-08-04,Customer 058,T-Shirt,Clothing,North,Chandigarh,4,635.98,0.1,2289.53,517.82,Credit Card
+ORD-10818,2026-08-12,Customer 140,Smartphone,Electronics,East,Patna,1,26455.0,0,26455.0,5809.81,Net Banking
+ORD-10819,2026-01-03,Customer 127,Monitor,Electronics,Central,Indore,1,12696.54,0.05,12061.71,3428.82,UPI
+ORD-10820,2026-09-23,Customer 055,Desk,Furniture,North,Jaipur,3,9973.94,0.05,28425.73,8240.45,Credit Card
+ORD-10821,2026-04-11,Customer 305,Laptop,Electronics,North,Chandigarh,4,56303.2,0.05,213952.16,58786.55,UPI
+ORD-10822,2026-09-12,Customer 067,Desk,Furniture,North,Delhi,5,10537.37,0,52686.85,12878.2,UPI
+ORD-10823,2026-09-29,Customer 196,Water Bottle,Accessories,East,Kolkata,3,484.02,0.1,1306.85,273.97,Cash
+ORD-10824,2026-03-11,Customer 084,Office Chair,Furniture,South,Chennai,2,8676.02,0.1,15616.84,5181.23,Cash
+ORD-10825,2026-05-02,Customer 309,Office Chair,Furniture,South,Bengaluru,1,7532.31,0.1,6779.08,1080.03,Debit Card
+ORD-10826,2026-07-26,Customer 138,Running Shoes,Sports,North,Chandigarh,3,3240.91,0.05,9236.59,1531.33,Net Banking
+ORD-10827,2026-07-01,Customer 048,Bookshelf,Furniture,North,Delhi,4,6686.2,0.05,25407.56,7109.16,Net Banking
+ORD-10828,2026-08-21,Customer 323,Desk,Furniture,West,Ahmedabad,2,9903.51,0.1,17826.32,1914.15,Net Banking
+ORD-10829,2026-02-09,Customer 066,Smartphone,Electronics,East,Patna,4,27894.11,0.15,94839.97,17335.99,Debit Card
+ORD-10830,2025-12-18,Customer 263,Backpack,Accessories,South,Bengaluru,5,1789.38,0.05,8499.56,2127.23,Net Banking
+ORD-10831,2026-05-25,Customer 131,Bookshelf,Furniture,West,Ahmedabad,1,6213.79,0.1,5592.41,776.24,UPI
+ORD-10832,2026-02-26,Customer 202,Water Bottle,Accessories,Central,Bhopal,1,416.28,0.05,395.47,136.09,UPI
+ORD-10833,2026-10-10,Customer 136,Bookshelf,Furniture,East,Bhubaneswar,3,6380.95,0.05,18185.71,4003.49,Credit Card
+ORD-10834,2026-01-18,Customer 223,Monitor,Electronics,South,Hyderabad,1,13304.33,0.05,12639.11,2139.5,UPI
+ORD-10835,2026-06-20,Customer 337,Laptop,Electronics,West,Ahmedabad,1,46952.2,0.05,44604.59,12186.95,Net Banking
+ORD-10836,2026-11-04,Customer 346,Yoga Mat,Sports,West,Pune,3,932.46,0.15,2377.77,513.11,Debit Card
+ORD-10837,2026-03-01,Customer 014,Smartphone,Electronics,South,Bengaluru,2,25285.48,0,50570.96,21047.0,Cash
+ORD-10838,2026-03-02,Customer 045,Running Shoes,Sports,South,Chennai,2,3186.8,0.05,6054.92,1149.78,Cash
+ORD-10839,2026-11-19,Customer 228,Headphones,Electronics,West,Pune,4,1990.56,0,7962.24,3052.87,Cash
+ORD-10840,2026-06-13,Customer 027,Laptop,Electronics,West,Pune,5,49575.68,0,247878.4,54764.23,UPI
+ORD-10841,2026-09-04,Customer 149,Smartphone,Electronics,West,Mumbai,4,30427.48,0.1,109538.93,21542.48,Cash
+ORD-10842,2026-08-01,Customer 119,Bookshelf,Furniture,West,Ahmedabad,5,6386.18,0.05,30334.35,6613.51,UPI
+ORD-10843,2026-10-22,Customer 214,Jeans,Clothing,North,Jaipur,4,1540.21,0.05,5852.8,1883.47,UPI
+ORD-10844,2026-03-03,Customer 241,T-Shirt,Clothing,Central,Indore,3,649.11,0,1947.33,742.48,Cash
+ORD-10845,2026-10-27,Customer 240,Monitor,Electronics,Central,Bhopal,2,12866.06,0.05,24445.51,3828.51,Debit Card
+ORD-10846,2026-07-24,Customer 083,Yoga Mat,Sports,West,Ahmedabad,4,974.95,0.05,3704.81,755.39,Credit Card
+ORD-10847,2026-01-15,Customer 213,Office Chair,Furniture,North,Jaipur,4,7241.53,0,28966.12,7954.68,Debit Card
+ORD-10848,2026-05-26,Customer 347,Monitor,Electronics,South,Bengaluru,5,11379.39,0,56896.95,11867.71,Credit Card
+ORD-10849,2026-03-21,Customer 062,Backpack,Accessories,Central,Nagpur,1,1939.5,0,1939.5,761.54,Credit Card
+ORD-10850,2026-09-06,Customer 137,T-Shirt,Clothing,East,Kolkata,3,697.24,0.1,1882.55,282.75,Net Banking
+ORD-10851,2026-01-20,Customer 055,Jacket,Clothing,North,Chandigarh,1,3090.81,0,3090.81,959.04,Net Banking
+ORD-10852,2026-03-10,Customer 186,Water Bottle,Accessories,North,Delhi,5,409.15,0,2045.75,549.93,Debit Card
+ORD-10853,2026-05-30,Customer 172,Yoga Mat,Sports,West,Mumbai,5,908.68,0.1,4089.06,1285.64,UPI
+ORD-10854,2026-07-25,Customer 175,Backpack,Accessories,South,Chennai,4,2003.98,0.1,7214.33,2552.42,Net Banking
+ORD-10855,2026-10-31,Customer 126,Headphones,Electronics,North,Delhi,3,2160.26,0.1,5832.7,1512.91,Net Banking
+ORD-10856,2026-07-17,Customer 265,Bookshelf,Furniture,South,Hyderabad,2,6673.61,0,13347.22,4294.68,Debit Card
+ORD-10857,2025-12-30,Customer 044,Laptop,Electronics,West,Pune,2,55610.54,0.1,100098.97,21781.12,Debit Card
+ORD-10858,2026-10-19,Customer 078,Bookshelf,Furniture,South,Hyderabad,4,5663.84,0.1,20389.82,3660.14,UPI
+ORD-10859,2026-04-29,Customer 161,Running Shoes,Sports,Central,Indore,3,3175.19,0.1,8573.01,1446.08,UPI
+ORD-10860,2026-10-20,Customer 106,Backpack,Accessories,East,Patna,5,1861.72,0,9308.6,3007.19,Net Banking
+ORD-10861,2026-06-20,Customer 102,Water Bottle,Accessories,Central,Indore,4,474.05,0.1,1706.58,251.1,UPI
+ORD-10862,2026-08-18,Customer 277,Laptop,Electronics,Central,Indore,3,51261.53,0.1,138406.13,16736.35,Credit Card
+ORD-10863,2025-12-06,Customer 015,Smartphone,Electronics,Central,Nagpur,5,27123.47,0,135617.35,36268.89,Net Banking
+ORD-10864,2025-12-25,Customer 191,Office Chair,Furniture,South,Chennai,3,8266.69,0.15,21080.06,6038.67,Net Banking
+ORD-10865,2026-09-14,Customer 003,Desk,Furniture,North,Jaipur,1,10131.21,0.15,8611.53,1644.33,Debit Card
+ORD-10866,2026-09-25,Customer 120,Monitor,Electronics,Central,Indore,5,13215.28,0.15,56164.94,7286.58,Debit Card
+ORD-10867,2026-05-11,Customer 265,Office Chair,Furniture,Central,Nagpur,2,8245.83,0.05,15667.08,5121.78,Credit Card
+ORD-10868,2026-01-05,Customer 048,Backpack,Accessories,East,Kolkata,4,1658.8,0.1,5971.68,804.02,Cash
+ORD-10869,2026-09-22,Customer 287,Headphones,Electronics,West,Ahmedabad,2,2195.94,0,4391.88,1289.89,Cash
+ORD-10870,2026-08-02,Customer 214,Backpack,Accessories,East,Kolkata,5,1817.54,0,9087.7,2857.0,Credit Card
+ORD-10871,2026-08-22,Customer 061,Jeans,Clothing,South,Hyderabad,4,1584.68,0,6338.72,1590.47,Credit Card
+ORD-10872,2026-01-24,Customer 309,T-Shirt,Clothing,West,Pune,1,691.75,0.15,587.99,125.46,UPI
+ORD-10873,2026-04-30,Customer 192,Smartphone,Electronics,East,Bhubaneswar,5,26983.88,0.05,128173.43,46107.61,Debit Card
+ORD-10874,2026-04-30,Customer 146,T-Shirt,Clothing,North,Delhi,2,605.33,0.05,1150.13,433.81,Credit Card
+ORD-10875,2026-06-26,Customer 247,Backpack,Accessories,West,Ahmedabad,1,1668.44,0,1668.44,352.2,Debit Card
+ORD-10876,2026-10-01,Customer 068,Jacket,Clothing,West,Mumbai,3,3001.31,0.05,8553.73,1775.5,Net Banking
+ORD-10877,2026-01-09,Customer 320,Running Shoes,Sports,West,Ahmedabad,4,3349.72,0,13398.88,3286.91,Net Banking
+ORD-10878,2026-11-03,Customer 227,Bookshelf,Furniture,West,Ahmedabad,2,6807.93,0,13615.86,5568.93,Debit Card
+ORD-10879,2026-11-22,Customer 159,Running Shoes,Sports,North,Chandigarh,2,3377.87,0.05,6417.95,1208.75,UPI
+ORD-10880,2025-12-22,Customer 292,Running Shoes,Sports,Central,Nagpur,1,3015.47,0.05,2864.7,698.25,Credit Card
+ORD-10881,2026-02-25,Customer 010,Water Bottle,Accessories,West,Pune,5,493.79,0,2468.95,482.23,Credit Card
+ORD-10882,2026-09-22,Customer 024,Monitor,Electronics,Central,Indore,4,11482.78,0.05,43634.56,13462.25,UPI
+ORD-10883,2026-04-05,Customer 047,Desk,Furniture,West,Mumbai,2,9417.22,0.1,16951.0,4592.37,UPI
+ORD-10884,2026-05-01,Customer 209,Jeans,Clothing,South,Hyderabad,3,1397.53,0,4192.59,1670.7,Credit Card
+ORD-10885,2026-01-14,Customer 164,Laptop,Electronics,Central,Bhopal,3,48875.88,0.1,131964.88,36433.18,Cash
+ORD-10886,2026-03-27,Customer 306,Desk,Furniture,East,Patna,4,10517.9,0.1,37864.44,12939.09,Credit Card
+ORD-10887,2026-07-20,Customer 284,T-Shirt,Clothing,Central,Indore,5,640.06,0,3200.3,1297.56,UPI
+ORD-10888,2026-09-04,Customer 301,T-Shirt,Clothing,North,Chandigarh,4,675.6,0.15,2297.04,717.57,UPI
+ORD-10889,2026-10-16,Customer 257,Monitor,Electronics,Central,Bhopal,2,12087.69,0,24175.38,9666.82,Credit Card
+ORD-10890,2026-09-05,Customer 232,Desk,Furniture,Central,Bhopal,2,10184.43,0.05,19350.42,5464.96,UPI
+ORD-10891,2026-07-29,Customer 140,Backpack,Accessories,West,Ahmedabad,5,1734.54,0.15,7371.8,2340.5,Debit Card
+ORD-10892,2026-04-18,Customer 024,Backpack,Accessories,West,Mumbai,3,1953.61,0,5860.83,1279.04,Net Banking
+ORD-10893,2026-09-05,Customer 144,Jacket,Clothing,North,Jaipur,3,2575.26,0.05,7339.49,1318.64,Credit Card
+ORD-10894,2026-11-22,Customer 232,Jacket,Clothing,Central,Indore,3,3064.5,0.15,7814.47,1080.78,Credit Card
+ORD-10895,2026-11-14,Customer 069,Running Shoes,Sports,East,Patna,3,3028.28,0.15,7722.11,1736.75,UPI
+ORD-10896,2026-11-16,Customer 251,Jacket,Clothing,West,Pune,1,3075.29,0.05,2921.53,832.92,Net Banking
+ORD-10897,2026-11-04,Customer 064,Smartphone,Electronics,North,Jaipur,5,25390.64,0.1,114257.88,20161.8,Cash
+ORD-10898,2025-11-29,Customer 064,Backpack,Accessories,Central,Indore,3,1773.15,0.1,4787.51,665.74,Debit Card
+ORD-10899,2026-11-23,Customer 184,Monitor,Electronics,West,Mumbai,1,11859.18,0,11859.18,4180.69,UPI
+ORD-10900,2026-05-29,Customer 019,Backpack,Accessories,Central,Indore,3,1940.13,0,5820.39,1075.44,Cash
+ORD-10901,2026-01-20,Customer 143,Yoga Mat,Sports,Central,Nagpur,2,811.41,0.15,1379.4,189.51,Net Banking
+ORD-10902,2026-09-29,Customer 290,T-Shirt,Clothing,South,Bengaluru,5,612.71,0.1,2757.2,486.12,UPI
+ORD-10903,2026-08-19,Customer 141,Jacket,Clothing,South,Bengaluru,1,2598.5,0.15,2208.72,168.08,UPI
+ORD-10904,2026-07-01,Customer 329,Yoga Mat,Sports,Central,Nagpur,5,860.08,0.05,4085.38,1122.65,UPI
+ORD-10905,2026-08-17,Customer 239,Backpack,Accessories,East,Bhubaneswar,4,1954.36,0,7817.44,3054.96,Debit Card
+ORD-10906,2026-05-05,Customer 003,Jeans,Clothing,North,Jaipur,2,1365.5,0.15,2321.35,388.41,Credit Card
+ORD-10907,2026-11-13,Customer 217,Desk,Furniture,North,Delhi,5,10238.04,0.15,43511.67,11049.37,Credit Card
+ORD-10908,2026-07-28,Customer 222,Monitor,Electronics,South,Bengaluru,3,12104.72,0.05,34498.45,12593.23,Net Banking
+ORD-10909,2025-12-22,Customer 171,Water Bottle,Accessories,East,Patna,3,429.47,0.05,1223.99,180.23,Credit Card
+ORD-10910,2026-01-27,Customer 044,Smartphone,Electronics,Central,Bhopal,5,27901.34,0,139506.7,43644.74,UPI
+ORD-10911,2025-12-23,Customer 155,Bookshelf,Furniture,East,Patna,1,6647.53,0,6647.53,1511.83,Cash
+ORD-10912,2026-01-13,Customer 317,Smartphone,Electronics,North,Jaipur,1,28645.03,0,28645.03,9408.48,Credit Card
+ORD-10913,2026-10-08,Customer 318,Backpack,Accessories,Central,Bhopal,5,1624.2,0,8121.0,1861.01,Debit Card
+ORD-10914,2025-12-01,Customer 305,Running Shoes,Sports,North,Chandigarh,4,3244.12,0.05,12327.66,4464.93,UPI
+ORD-10915,2026-07-29,Customer 318,Jacket,Clothing,South,Chennai,5,2597.6,0.05,12338.6,3697.76,Credit Card
+ORD-10916,2026-10-24,Customer 184,Monitor,Electronics,South,Chennai,1,11416.35,0,11416.35,3600.68,Net Banking
+ORD-10917,2025-11-29,Customer 266,Jeans,Clothing,South,Hyderabad,2,1504.94,0.05,2859.39,903.4,Credit Card
+ORD-10918,2026-05-20,Customer 101,Laptop,Electronics,South,Bengaluru,5,56171.46,0.05,266814.43,100236.35,Credit Card
+ORD-10919,2026-07-22,Customer 308,Water Bottle,Accessories,North,Chandigarh,3,423.75,0.05,1207.69,259.28,Debit Card
+ORD-10920,2026-02-16,Customer 054,Backpack,Accessories,Central,Indore,5,2001.37,0.05,9506.51,2696.98,UPI
+ORD-10921,2026-03-14,Customer 123,T-Shirt,Clothing,South,Chennai,1,676.34,0.05,642.52,174.51,Debit Card
+ORD-10922,2025-11-30,Customer 038,Water Bottle,Accessories,West,Pune,2,444.63,0.1,800.33,283.12,UPI
+ORD-10923,2026-05-28,Customer 023,Jeans,Clothing,North,Delhi,2,1445.89,0,2891.78,808.07,Credit Card
+ORD-10924,2026-09-04,Customer 126,Monitor,Electronics,East,Kolkata,2,11852.1,0,23704.2,8964.26,Credit Card
+ORD-10925,2026-06-07,Customer 336,Laptop,Electronics,South,Bengaluru,3,57217.82,0,171653.46,44185.56,Debit Card
+ORD-10926,2026-08-21,Customer 320,Monitor,Electronics,East,Bhubaneswar,4,11910.41,0.1,42877.48,7688.5,UPI
+ORD-10927,2026-06-04,Customer 163,Smartphone,Electronics,South,Hyderabad,2,30096.57,0,60193.14,19817.57,Cash
+ORD-10928,2026-04-24,Customer 077,Running Shoes,Sports,South,Chennai,1,3417.21,0.05,3246.35,563.62,Credit Card
+ORD-10929,2026-03-12,Customer 042,Laptop,Electronics,East,Bhubaneswar,2,56541.19,0.15,96120.02,6490.9,Net Banking
+ORD-10930,2026-06-04,Customer 256,Smartphone,Electronics,South,Hyderabad,5,27590.79,0.1,124158.56,19275.94,Cash
+ORD-10931,2026-07-25,Customer 138,Headphones,Electronics,East,Patna,3,2234.33,0.05,6367.84,942.57,Cash
+ORD-10932,2026-03-25,Customer 203,Running Shoes,Sports,Central,Bhopal,1,3025.87,0.1,2723.28,639.97,Debit Card
+ORD-10933,2026-01-07,Customer 069,Bookshelf,Furniture,West,Mumbai,5,5794.43,0.1,26074.94,7501.27,Debit Card
+ORD-10934,2026-05-16,Customer 219,T-Shirt,Clothing,Central,Indore,3,617.92,0,1853.76,550.67,Cash
+ORD-10935,2026-02-24,Customer 227,Bookshelf,Furniture,West,Mumbai,3,6677.34,0,20032.02,6575.13,Debit Card
+ORD-10936,2026-08-31,Customer 330,Running Shoes,Sports,North,Delhi,3,3514.64,0,10543.92,3158.71,Debit Card
+ORD-10937,2026-03-05,Customer 346,Monitor,Electronics,North,Jaipur,1,11446.21,0,11446.21,4257.15,Debit Card
+ORD-10938,2026-08-30,Customer 134,Office Chair,Furniture,East,Kolkata,2,8230.88,0.15,13992.5,500.16,Debit Card
+ORD-10939,2025-12-01,Customer 242,Office Chair,Furniture,East,Patna,4,8643.02,0.1,31114.87,4775.32,Net Banking
+ORD-10940,2026-03-24,Customer 265,Water Bottle,Accessories,South,Hyderabad,4,427.53,0.1,1539.11,461.1,Net Banking
+ORD-10941,2026-07-02,Customer 214,Water Bottle,Accessories,West,Mumbai,4,438.73,0,1754.92,380.83,Cash
+ORD-10942,2025-11-29,Customer 256,T-Shirt,Clothing,Central,Nagpur,1,638.58,0.05,606.65,216.6,Debit Card
+ORD-10943,2026-11-13,Customer 276,Desk,Furniture,South,Chennai,4,9439.75,0.1,33983.1,5169.89,Debit Card
+ORD-10944,2026-05-13,Customer 291,Jacket,Clothing,North,Chandigarh,5,3003.78,0.15,12766.07,3501.12,Net Banking
+ORD-10945,2026-08-25,Customer 198,Jacket,Clothing,Central,Bhopal,4,3123.79,0,12495.16,4076.51,Cash
+ORD-10946,2026-02-20,Customer 054,Smartphone,Electronics,East,Patna,5,31125.54,0.05,147846.32,46203.55,Net Banking
+ORD-10947,2026-06-10,Customer 146,Headphones,Electronics,North,Delhi,5,2216.49,0,11082.45,4469.8,Credit Card
+ORD-10948,2026-05-11,Customer 211,Office Chair,Furniture,Central,Indore,1,7800.2,0,7800.2,3255.4,Credit Card
+ORD-10949,2026-03-10,Customer 067,Smartphone,Electronics,South,Bengaluru,5,27777.43,0.1,124998.43,31477.62,Debit Card
+ORD-10950,2026-08-09,Customer 235,Bookshelf,Furniture,West,Pune,2,6403.46,0.15,10885.88,1652.12,Credit Card
+ORD-10951,2026-08-21,Customer 169,Laptop,Electronics,South,Hyderabad,4,47531.82,0,190127.28,43003.79,Cash
+ORD-10952,2026-07-16,Customer 178,T-Shirt,Clothing,West,Ahmedabad,5,590.59,0,2952.95,782.2,Debit Card
+ORD-10953,2026-07-04,Customer 235,Bookshelf,Furniture,Central,Indore,2,6146.13,0,12292.26,3340.34,Credit Card
+ORD-10954,2026-02-13,Customer 141,Yoga Mat,Sports,Central,Nagpur,1,887.92,0.15,754.73,188.66,Net Banking
+ORD-10955,2026-01-26,Customer 189,Office Chair,Furniture,North,Delhi,2,8579.39,0,17158.78,4069.26,UPI
+ORD-10956,2026-07-19,Customer 014,Jeans,Clothing,East,Kolkata,4,1498.81,0,5995.24,1789.85,Cash
+ORD-10957,2026-01-22,Customer 070,Bookshelf,Furniture,East,Bhubaneswar,4,6747.27,0,26989.08,11265.86,Cash
+ORD-10958,2026-07-07,Customer 072,T-Shirt,Clothing,West,Pune,1,596.8,0.05,566.96,118.61,Debit Card
+ORD-10959,2026-01-27,Customer 274,Backpack,Accessories,South,Hyderabad,2,1952.04,0.05,3708.88,1278.45,Cash
+ORD-10960,2026-03-15,Customer 018,Headphones,Electronics,North,Chandigarh,1,2307.85,0,2307.85,770.96,Net Banking
+ORD-10961,2026-10-28,Customer 053,Monitor,Electronics,West,Pune,1,13550.38,0.1,12195.34,2251.49,Debit Card
+ORD-10962,2026-04-01,Customer 192,T-Shirt,Clothing,North,Delhi,5,585.67,0.1,2635.51,397.94,Credit Card
+ORD-10963,2026-11-08,Customer 343,Smartphone,Electronics,North,Delhi,4,25372.14,0,101488.56,22639.42,Credit Card
+ORD-10964,2026-05-09,Customer 288,Smartphone,Electronics,South,Hyderabad,2,25471.12,0.05,48395.13,8876.7,Credit Card
+ORD-10965,2026-01-18,Customer 183,Jacket,Clothing,South,Chennai,5,2763.36,0,13816.8,5032.38,Credit Card
+ORD-10966,2026-10-27,Customer 143,Laptop,Electronics,West,Ahmedabad,3,46937.07,0,140811.21,51702.63,Net Banking
+ORD-10967,2026-08-07,Customer 053,Desk,Furniture,North,Chandigarh,1,10400.61,0,10400.61,2452.35,Net Banking
+ORD-10968,2026-10-14,Customer 199,Water Bottle,Accessories,Central,Nagpur,2,429.94,0,859.88,294.21,Credit Card
+ORD-10969,2025-12-04,Customer 312,Desk,Furniture,South,Hyderabad,3,10594.07,0.05,30193.1,11244.44,Cash
+ORD-10970,2025-12-05,Customer 316,Bookshelf,Furniture,Central,Bhopal,2,6266.66,0.1,11279.99,3970.68,Debit Card
+ORD-10971,2026-04-25,Customer 104,Monitor,Electronics,West,Mumbai,2,12954.36,0,25908.72,8552.84,Cash
+ORD-10972,2026-05-12,Customer 069,Monitor,Electronics,North,Jaipur,2,13789.38,0.05,26199.82,3943.47,Debit Card
+ORD-10973,2025-12-07,Customer 118,Running Shoes,Sports,North,Chandigarh,5,3437.41,0,17187.05,3866.22,Debit Card
+ORD-10974,2026-04-01,Customer 114,Desk,Furniture,South,Hyderabad,2,9677.16,0.15,16451.17,2136.69,Cash
+ORD-10975,2025-12-30,Customer 099,Jeans,Clothing,East,Kolkata,2,1495.98,0,2991.96,632.0,Credit Card
+ORD-10976,2026-03-09,Customer 121,Monitor,Electronics,South,Hyderabad,1,11727.61,0.05,11141.23,2100.93,UPI
+ORD-10977,2026-10-01,Customer 128,Bookshelf,Furniture,West,Pune,3,5803.91,0,17411.73,5541.04,Debit Card
+ORD-10978,2026-05-28,Customer 204,Jacket,Clothing,West,Pune,2,2687.47,0.1,4837.45,1616.77,Credit Card
+ORD-10979,2026-07-29,Customer 011,T-Shirt,Clothing,West,Pune,4,657.26,0.1,2366.14,361.56,Cash
+ORD-10980,2026-04-05,Customer 195,Backpack,Accessories,North,Jaipur,3,1855.69,0,5567.07,1367.3,Debit Card
+ORD-10981,2026-07-23,Customer 101,T-Shirt,Clothing,East,Kolkata,4,665.39,0.05,2528.48,771.91,Credit Card
+ORD-10982,2026-06-25,Customer 203,Laptop,Electronics,North,Chandigarh,5,55155.42,0,275777.1,89050.28,Debit Card
+ORD-10983,2025-12-14,Customer 064,Bookshelf,Furniture,West,Pune,3,6454.39,0.05,18395.01,5264.67,Net Banking
+ORD-10984,2026-05-22,Customer 261,Headphones,Electronics,South,Hyderabad,4,2443.23,0.1,8795.63,1364.51,Cash
+ORD-10985,2026-03-29,Customer 245,Running Shoes,Sports,East,Kolkata,1,3338.24,0.15,2837.5,311.92,Debit Card
+ORD-10986,2026-04-04,Customer 127,Running Shoes,Sports,North,Chandigarh,2,3063.98,0.05,5821.56,1265.69,Net Banking
+ORD-10987,2026-06-09,Customer 204,Running Shoes,Sports,South,Hyderabad,1,2962.18,0,2962.18,738.22,Net Banking
+ORD-10988,2026-11-14,Customer 155,Smartphone,Electronics,Central,Nagpur,2,30596.2,0,61192.4,19431.7,Net Banking
+ORD-10989,2026-01-09,Customer 056,Running Shoes,Sports,West,Ahmedabad,5,3096.82,0,15484.1,3246.46,Net Banking
+ORD-10990,2026-11-17,Customer 158,Water Bottle,Accessories,East,Kolkata,2,431.63,0,863.26,207.54,Credit Card
+ORD-10991,2026-06-26,Customer 336,Backpack,Accessories,West,Pune,1,1658.36,0.1,1492.52,364.37,Cash
+ORD-10992,2026-08-09,Customer 057,Headphones,Electronics,South,Chennai,3,2070.22,0,6210.66,1883.36,Net Banking
+ORD-10993,2026-03-03,Customer 133,Backpack,Accessories,South,Chennai,2,1699.57,0.1,3059.23,427.61,Cash
+ORD-10994,2026-06-06,Customer 064,Running Shoes,Sports,Central,Indore,1,3491.33,0,3491.33,1220.74,UPI
+ORD-10995,2025-11-29,Customer 032,Desk,Furniture,North,Jaipur,5,9040.69,0.05,42943.28,8474.38,UPI
+ORD-10996,2026-09-29,Customer 267,Running Shoes,Sports,Central,Indore,1,2948.18,0.05,2800.77,1085.69,Cash
+ORD-10997,2026-05-05,Customer 123,T-Shirt,Clothing,East,Bhubaneswar,5,646.41,0,3232.05,666.98,Cash
+ORD-10998,2025-11-26,Customer 234,Bookshelf,Furniture,Central,Nagpur,1,6910.32,0.1,6219.29,874.12,Cash
+ORD-10999,2026-11-18,Customer 128,Yoga Mat,Sports,South,Chennai,1,929.18,0.1,836.26,235.01,Cash
+ORD-11000,2026-05-08,Customer 009,Jacket,Clothing,West,Ahmedabad,5,2774.49,0,13872.45,2543.05,Debit Card
+ORD-11001,2026-10-04,Customer 042,Backpack,Accessories,North,Jaipur,3,1888.46,0,5665.38,1720.64,Cash
+ORD-11002,2026-08-18,Customer 293,T-Shirt,Clothing,North,Chandigarh,4,627.02,0,2508.08,967.22,Net Banking
+ORD-11003,2026-09-01,Customer 240,Laptop,Electronics,South,Bengaluru,4,55915.63,0,223662.52,57808.95,Cash
+ORD-11004,2026-10-28,Customer 046,Smartphone,Electronics,West,Mumbai,5,26683.95,0,133419.75,31916.59,Cash
+ORD-11005,2026-04-17,Customer 113,Yoga Mat,Sports,North,Chandigarh,2,993.94,0,1987.88,651.95,Debit Card
+ORD-11006,2026-08-03,Customer 047,Running Shoes,Sports,West,Ahmedabad,1,3348.5,0.15,2846.22,394.95,Debit Card
+ORD-11007,2026-06-06,Customer 196,Backpack,Accessories,South,Hyderabad,5,1923.47,0.05,9136.48,2071.99,Net Banking
+ORD-11008,2026-01-09,Customer 175,Backpack,Accessories,West,Ahmedabad,2,1708.53,0,3417.06,1363.26,Net Banking
+ORD-11009,2026-09-16,Customer 001,Monitor,Electronics,North,Jaipur,5,12261.28,0.1,55175.76,5580.33,UPI
+ORD-11010,2026-05-30,Customer 348,Jacket,Clothing,Central,Bhopal,2,3041.83,0.15,5171.11,1175.88,Net Banking
+ORD-11011,2026-07-18,Customer 162,Running Shoes,Sports,Central,Bhopal,5,3036.39,0,15181.95,4415.06,Debit Card
+ORD-11012,2026-10-31,Customer 018,Backpack,Accessories,South,Hyderabad,4,1889.27,0,7557.08,2659.98,Debit Card
+ORD-11013,2026-10-14,Customer 111,Office Chair,Furniture,Central,Indore,1,7489.24,0.1,6740.32,1364.89,Debit Card
+ORD-11014,2026-03-12,Customer 116,Yoga Mat,Sports,West,Ahmedabad,1,1004.27,0,1004.27,222.25,UPI
+ORD-11015,2026-02-14,Customer 012,Backpack,Accessories,South,Hyderabad,4,1908.05,0,7632.2,1712.64,Cash
+ORD-11016,2026-08-22,Customer 145,Desk,Furniture,West,Pune,4,10619.76,0.1,38231.14,9606.42,Credit Card
+ORD-11017,2025-12-22,Customer 156,Yoga Mat,Sports,Central,Indore,4,829.27,0,3317.08,763.24,Credit Card
+ORD-11018,2026-03-16,Customer 101,Jacket,Clothing,South,Hyderabad,4,2948.71,0,11794.84,4543.87,UPI
+ORD-11019,2026-07-01,Customer 348,Desk,Furniture,Central,Bhopal,1,9967.68,0.15,8472.53,2338.17,UPI
+ORD-11020,2026-10-23,Customer 174,Smartphone,Electronics,East,Patna,4,26306.54,0,105226.16,19438.8,Cash
+ORD-11021,2026-11-12,Customer 306,Headphones,Electronics,West,Mumbai,2,1996.45,0,3992.9,1208.77,Cash
+ORD-11022,2026-10-25,Customer 228,Water Bottle,Accessories,North,Jaipur,4,490.62,0.05,1864.36,596.5,UPI
+ORD-11023,2026-03-20,Customer 012,Smartphone,Electronics,North,Chandigarh,1,25951.84,0.05,24654.25,3943.78,Net Banking
+ORD-11024,2026-06-09,Customer 248,Jacket,Clothing,West,Ahmedabad,3,2947.34,0,8842.02,2455.51,Cash
+ORD-11025,2026-08-27,Customer 095,Office Chair,Furniture,Central,Indore,2,7190.64,0,14381.28,2903.13,UPI
+ORD-11026,2026-09-20,Customer 276,Bookshelf,Furniture,Central,Nagpur,5,6648.66,0.05,31581.14,11789.95,UPI
+ORD-11027,2026-09-05,Customer 229,Water Bottle,Accessories,South,Chennai,1,422.89,0.05,401.75,138.21,UPI
+ORD-11028,2025-12-12,Customer 044,Laptop,Electronics,South,Bengaluru,5,49159.27,0,245796.35,70052.18,Net Banking
+ORD-11029,2026-04-01,Customer 154,Office Chair,Furniture,East,Kolkata,5,7314.47,0.15,31086.5,4097.63,Net Banking
+ORD-11030,2026-08-19,Customer 181,Water Bottle,Accessories,East,Patna,5,449.05,0.05,2132.99,456.18,Net Banking
+ORD-11031,2026-02-05,Customer 154,Jeans,Clothing,South,Bengaluru,1,1568.66,0,1568.66,645.01,Credit Card
+ORD-11032,2026-06-29,Customer 039,Jacket,Clothing,Central,Nagpur,2,2884.54,0,5769.08,1413.51,Debit Card
+ORD-11033,2026-06-30,Customer 074,Office Chair,Furniture,West,Ahmedabad,2,7706.5,0,15413.0,5533.22,Credit Card
+ORD-11034,2026-08-13,Customer 310,Smartphone,Electronics,East,Kolkata,2,29600.98,0.05,56241.86,12700.89,Cash
+ORD-11035,2026-09-30,Customer 127,Backpack,Accessories,South,Bengaluru,3,2013.01,0,6039.03,2498.84,Debit Card
+ORD-11036,2026-01-09,Customer 186,Smartphone,Electronics,Central,Indore,1,29413.31,0,29413.31,10028.59,Debit Card
+ORD-11037,2026-06-06,Customer 054,Headphones,Electronics,South,Bengaluru,3,1984.77,0,5954.31,1116.4,Credit Card
+ORD-11038,2026-11-18,Customer 293,Jeans,Clothing,East,Bhubaneswar,5,1621.04,0.05,7699.94,1969.97,Net Banking
+ORD-11039,2026-06-12,Customer 093,Office Chair,Furniture,Central,Indore,1,8558.51,0,8558.51,1650.4,Net Banking
+ORD-11040,2026-08-14,Customer 080,Jeans,Clothing,Central,Nagpur,4,1507.36,0,6029.44,2518.62,Credit Card
+ORD-11041,2026-06-02,Customer 128,Headphones,Electronics,West,Ahmedabad,5,2335.94,0,11679.7,2872.03,Net Banking
+ORD-11042,2026-04-20,Customer 142,Bookshelf,Furniture,West,Pune,2,6178.74,0,12357.48,3800.17,Net Banking
+ORD-11043,2026-05-04,Customer 047,Yoga Mat,Sports,South,Hyderabad,3,935.86,0,2807.58,973.22,UPI
+ORD-11044,2026-09-04,Customer 253,Smartphone,Electronics,South,Bengaluru,1,26217.1,0,26217.1,6333.57,Cash
+ORD-11045,2026-08-24,Customer 064,Running Shoes,Sports,Central,Indore,2,3217.68,0.05,6113.59,839.75,UPI
+ORD-11046,2026-03-30,Customer 339,Jacket,Clothing,South,Hyderabad,1,2959.92,0.1,2663.93,414.63,Net Banking
+ORD-11047,2026-08-20,Customer 116,Laptop,Electronics,Central,Bhopal,4,57835.57,0.05,219775.17,36629.97,UPI
+ORD-11048,2026-02-20,Customer 192,Desk,Furniture,South,Bengaluru,5,9288.38,0,46441.9,13982.64,Debit Card
+ORD-11049,2026-07-30,Customer 151,Running Shoes,Sports,South,Chennai,5,3478.95,0.1,15655.27,4355.37,Credit Card
+ORD-11050,2026-10-20,Customer 264,Laptop,Electronics,Central,Bhopal,4,49287.78,0,197151.12,38652.12,Cash
+ORD-11051,2026-05-25,Customer 055,Jacket,Clothing,West,Mumbai,1,2739.14,0.05,2602.18,797.49,Debit Card
+ORD-11052,2026-01-07,Customer 271,Yoga Mat,Sports,South,Hyderabad,4,880.2,0,3520.8,1062.96,Credit Card
+ORD-11053,2026-07-23,Customer 203,Bookshelf,Furniture,North,Jaipur,4,5589.43,0.1,20121.95,5812.29,Debit Card
+ORD-11054,2026-10-27,Customer 225,Desk,Furniture,West,Mumbai,2,9671.13,0,19342.26,3530.96,Credit Card
+ORD-11055,2026-03-02,Customer 146,Desk,Furniture,West,Mumbai,1,9300.8,0.1,8370.72,2533.24,Credit Card
+ORD-11056,2026-07-28,Customer 341,Bookshelf,Furniture,West,Pune,3,6808.96,0,20426.88,7603.74,UPI
+ORD-11057,2026-06-17,Customer 257,Bookshelf,Furniture,West,Ahmedabad,5,6255.95,0.05,29715.76,10616.84,Cash
+ORD-11058,2025-12-01,Customer 122,Headphones,Electronics,North,Delhi,1,2363.67,0,2363.67,797.53,Debit Card
+ORD-11059,2026-07-02,Customer 127,Bookshelf,Furniture,Central,Nagpur,1,6172.42,0,6172.42,1872.57,Credit Card
+ORD-11060,2026-11-18,Customer 127,Yoga Mat,Sports,Central,Nagpur,2,859.39,0.1,1546.9,193.53,Cash
+ORD-11061,2026-09-23,Customer 323,Monitor,Electronics,West,Ahmedabad,1,13178.15,0.05,12519.24,4302.86,Credit Card
+ORD-11062,2026-02-07,Customer 219,Monitor,Electronics,North,Delhi,2,12353.53,0,24707.06,9237.41,Net Banking
+ORD-11063,2026-03-23,Customer 114,Monitor,Electronics,North,Jaipur,1,12295.97,0.05,11681.17,2483.32,Cash
+ORD-11064,2026-05-30,Customer 144,T-Shirt,Clothing,North,Jaipur,5,646.07,0,3230.35,1271.42,Cash
+ORD-11065,2026-05-08,Customer 109,Monitor,Electronics,East,Bhubaneswar,1,11749.82,0,11749.82,3072.54,Cash
+ORD-11066,2026-05-15,Customer 156,Office Chair,Furniture,Central,Bhopal,1,7759.44,0,7759.44,2344.06,UPI
+ORD-11067,2026-05-29,Customer 302,Running Shoes,Sports,North,Chandigarh,5,3422.41,0,17112.05,5706.24,Net Banking
+ORD-11068,2026-01-30,Customer 323,Desk,Furniture,South,Hyderabad,3,8988.97,0,26966.91,5584.13,Net Banking
+ORD-11069,2026-03-03,Customer 229,Smartphone,Electronics,North,Delhi,5,31164.91,0.1,140242.1,19294.48,UPI
+ORD-11070,2026-08-25,Customer 079,Jeans,Clothing,Central,Bhopal,3,1449.49,0.05,4131.05,814.75,Credit Card
+ORD-11071,2026-09-07,Customer 178,Monitor,Electronics,West,Pune,5,13206.91,0.1,59431.1,9096.58,Cash
+ORD-11072,2026-08-09,Customer 012,Running Shoes,Sports,North,Delhi,4,2927.67,0,11710.68,2300.92,Net Banking
+ORD-11073,2026-11-15,Customer 098,Office Chair,Furniture,South,Hyderabad,3,7097.98,0.05,20229.24,3818.99,Cash
+ORD-11074,2026-06-09,Customer 288,T-Shirt,Clothing,Central,Indore,5,723.93,0,3619.65,868.08,Cash
+ORD-11075,2026-11-16,Customer 005,Jacket,Clothing,East,Patna,2,2633.38,0,5266.76,1936.73,Cash
+ORD-11076,2026-09-03,Customer 061,Jeans,Clothing,Central,Bhopal,3,1450.13,0,4350.39,1087.68,Credit Card
+ORD-11077,2026-04-16,Customer 069,Laptop,Electronics,Central,Indore,2,50138.69,0.05,95263.51,14430.81,UPI
+ORD-11078,2026-09-30,Customer 189,Running Shoes,Sports,South,Chennai,2,3256.35,0,6512.7,2192.23,UPI
+ORD-11079,2026-05-10,Customer 030,Yoga Mat,Sports,Central,Nagpur,3,952.97,0,2858.91,781.18,UPI
+ORD-11080,2025-12-03,Customer 276,Backpack,Accessories,East,Patna,2,1909.27,0,3818.54,1369.19,Net Banking
+ORD-11081,2026-07-09,Customer 113,Smartphone,Electronics,West,Pune,3,30559.36,0.05,87094.18,21800.07,Debit Card
+ORD-11082,2026-06-01,Customer 076,Monitor,Electronics,Central,Indore,4,11678.01,0,46712.04,11476.74,UPI
+ORD-11083,2026-08-03,Customer 093,T-Shirt,Clothing,South,Hyderabad,4,611.46,0.1,2201.26,671.81,Debit Card
+ORD-11084,2026-03-01,Customer 036,Laptop,Electronics,East,Kolkata,2,56927.29,0.1,102469.12,17651.1,UPI
+ORD-11085,2026-08-21,Customer 071,Bookshelf,Furniture,South,Hyderabad,4,6820.05,0.15,23188.17,6709.4,UPI
+ORD-11086,2026-10-20,Customer 023,Jacket,Clothing,North,Delhi,4,2756.54,0,11026.16,4595.12,Credit Card
+ORD-11087,2025-11-29,Customer 055,Water Bottle,Accessories,North,Chandigarh,3,419.12,0.05,1194.49,461.15,Debit Card
+ORD-11088,2026-02-16,Customer 158,Backpack,Accessories,North,Jaipur,2,1675.14,0.1,3015.25,354.55,Cash
+ORD-11089,2025-12-05,Customer 023,Headphones,Electronics,South,Bengaluru,1,2243.07,0,2243.07,649.44,Net Banking
+ORD-11090,2026-03-19,Customer 013,Office Chair,Furniture,North,Delhi,5,8541.16,0,42705.8,17924.03,Cash
+ORD-11091,2026-06-09,Customer 058,Bookshelf,Furniture,South,Chennai,3,6473.92,0,19421.76,4059.97,Credit Card
+ORD-11092,2026-05-14,Customer 061,Smartphone,Electronics,South,Chennai,1,31091.83,0,31091.83,12489.29,UPI
+ORD-11093,2026-11-07,Customer 218,Laptop,Electronics,Central,Bhopal,2,48837.1,0.05,92790.49,22083.48,Debit Card
+ORD-11094,2026-06-01,Customer 136,Jacket,Clothing,East,Patna,3,3059.25,0,9177.75,2754.98,UPI
+ORD-11095,2026-07-11,Customer 245,Water Bottle,Accessories,North,Delhi,2,482.0,0,964.0,370.69,UPI
+ORD-11096,2026-06-10,Customer 181,Jacket,Clothing,West,Pune,3,2609.12,0,7827.36,3047.91,Cash
+ORD-11097,2026-10-25,Customer 126,Bookshelf,Furniture,West,Pune,4,6400.78,0.05,24322.96,8623.82,Cash
+ORD-11098,2026-06-09,Customer 043,Jeans,Clothing,West,Ahmedabad,5,1526.14,0.05,7249.16,1319.06,Cash
+ORD-11099,2025-12-03,Customer 186,Jeans,Clothing,Central,Nagpur,2,1582.02,0,3164.04,1326.72,Cash
+ORD-11100,2026-02-04,Customer 151,Headphones,Electronics,North,Jaipur,1,2421.1,0,2421.1,523.35,Credit Card
+ORD-11101,2026-02-03,Customer 061,Backpack,Accessories,Central,Nagpur,4,1716.03,0.1,6177.71,2104.49,Credit Card
+ORD-11102,2026-01-01,Customer 245,Bookshelf,Furniture,North,Chandigarh,4,6086.98,0.1,21913.13,3918.57,Credit Card
+ORD-11103,2026-06-26,Customer 077,Laptop,Electronics,South,Bengaluru,3,48416.21,0,145248.63,60569.46,Cash
+ORD-11104,2026-05-16,Customer 228,Yoga Mat,Sports,South,Hyderabad,5,948.32,0,4741.6,1523.17,UPI
+ORD-11105,2026-02-21,Customer 258,Office Chair,Furniture,North,Delhi,2,7122.96,0.05,13533.62,3205.3,UPI
+ORD-11106,2026-08-08,Customer 157,Bookshelf,Furniture,West,Ahmedabad,4,6335.87,0.1,22809.13,2519.24,Credit Card
+ORD-11107,2026-01-28,Customer 109,Bookshelf,Furniture,South,Chennai,3,6907.34,0.05,19685.92,2803.64,Net Banking
+ORD-11108,2026-01-03,Customer 240,Laptop,Electronics,South,Chennai,4,48901.46,0.1,176045.26,36337.58,Debit Card
+ORD-11109,2026-03-04,Customer 139,Running Shoes,Sports,West,Mumbai,4,2996.04,0.1,10785.74,1975.04,UPI
+ORD-11110,2026-02-16,Customer 278,Smartphone,Electronics,East,Kolkata,5,29997.39,0,149986.95,54372.19,UPI
+ORD-11111,2026-10-17,Customer 017,Monitor,Electronics,Central,Bhopal,1,13330.43,0,13330.43,3833.75,Debit Card
+ORD-11112,2025-12-19,Customer 162,Smartphone,Electronics,Central,Bhopal,5,25476.43,0.15,108274.83,19602.37,Debit Card
+ORD-11113,2026-06-13,Customer 183,Laptop,Electronics,East,Kolkata,3,57767.97,0.05,164638.71,51042.61,UPI
+ORD-11114,2026-09-21,Customer 196,Desk,Furniture,West,Pune,5,8761.1,0.1,39424.95,12438.8,Net Banking
+ORD-11115,2026-10-11,Customer 048,Backpack,Accessories,North,Chandigarh,3,1683.84,0.05,4798.94,1773.58,Credit Card
+ORD-11116,2026-10-02,Customer 334,Monitor,Electronics,South,Hyderabad,2,13981.9,0.05,26565.61,3687.11,Debit Card
+ORD-11117,2025-12-15,Customer 350,T-Shirt,Clothing,South,Chennai,3,626.59,0.05,1785.78,271.37,Credit Card
+ORD-11118,2026-08-06,Customer 050,Monitor,Electronics,Central,Bhopal,5,11456.25,0,57281.25,15427.59,Credit Card
+ORD-11119,2026-08-07,Customer 049,Water Bottle,Accessories,East,Bhubaneswar,5,490.89,0.1,2209.01,258.13,Debit Card
+ORD-11120,2025-12-31,Customer 092,Headphones,Electronics,East,Patna,2,2012.99,0.05,3824.68,1148.17,Cash
+ORD-11121,2026-01-27,Customer 292,Office Chair,Furniture,West,Pune,3,8329.56,0,24988.68,4952.79,UPI
+ORD-11122,2026-07-08,Customer 188,Desk,Furniture,East,Patna,4,9404.88,0.05,35738.54,7774.43,Net Banking
+ORD-11123,2026-11-09,Customer 022,Desk,Furniture,East,Patna,1,9975.8,0.05,9477.01,3061.79,UPI
+ORD-11124,2026-02-14,Customer 292,Yoga Mat,Sports,South,Chennai,5,811.57,0.1,3652.07,1015.45,UPI
+ORD-11125,2026-08-25,Customer 239,Monitor,Electronics,West,Mumbai,4,13090.16,0,52360.64,16104.18,UPI
+ORD-11126,2026-05-06,Customer 176,Headphones,Electronics,North,Chandigarh,4,2351.82,0,9407.28,3208.89,Cash
+ORD-11127,2026-07-23,Customer 075,Monitor,Electronics,West,Ahmedabad,1,12015.53,0,12015.53,4597.41,Credit Card
+ORD-11128,2026-05-29,Customer 221,Desk,Furniture,Central,Indore,1,10614.52,0.1,9553.07,3237.68,Credit Card
+ORD-11129,2026-10-16,Customer 091,Laptop,Electronics,South,Bengaluru,1,57698.26,0.05,54813.35,17611.62,Credit Card
+ORD-11130,2026-06-27,Customer 269,Smartphone,Electronics,East,Kolkata,4,25703.33,0.1,92531.99,21761.36,Debit Card
+ORD-11131,2026-04-26,Customer 085,Headphones,Electronics,North,Delhi,1,2413.16,0,2413.16,455.59,Debit Card
+ORD-11132,2026-07-06,Customer 182,Bookshelf,Furniture,West,Ahmedabad,4,6310.43,0.1,22717.55,2227.8,Net Banking
+ORD-11133,2026-11-01,Customer 297,Bookshelf,Furniture,North,Chandigarh,5,6648.11,0.05,31578.52,11678.26,Credit Card
+ORD-11134,2026-05-06,Customer 059,Desk,Furniture,East,Patna,1,8864.56,0.05,8421.33,2966.11,Cash
+ORD-11135,2026-10-15,Customer 231,Office Chair,Furniture,Central,Nagpur,1,8715.82,0.15,7408.45,560.05,Net Banking
+ORD-11136,2026-02-18,Customer 308,Smartphone,Electronics,North,Jaipur,2,29793.56,0,59587.12,15066.78,Credit Card
+ORD-11137,2026-05-30,Customer 009,Desk,Furniture,South,Chennai,2,10580.95,0.05,20103.81,7756.92,Debit Card
+ORD-11138,2026-05-24,Customer 278,Jeans,Clothing,North,Jaipur,4,1564.14,0.05,5943.73,1698.7,Net Banking
+ORD-11139,2026-09-04,Customer 305,Water Bottle,Accessories,East,Kolkata,1,496.71,0.05,471.87,139.3,Net Banking
+ORD-11140,2026-04-19,Customer 318,Bookshelf,Furniture,West,Mumbai,3,6732.7,0.05,19188.19,5352.52,UPI
+ORD-11141,2026-08-06,Customer 320,Water Bottle,Accessories,North,Chandigarh,1,469.31,0.05,445.84,127.32,UPI
+ORD-11142,2026-06-28,Customer 109,Running Shoes,Sports,West,Mumbai,5,3289.19,0,16445.95,5763.04,Cash
+ORD-11143,2026-07-20,Customer 212,Jeans,Clothing,West,Ahmedabad,1,1414.53,0.05,1343.8,481.13,Cash
+ORD-11144,2026-05-01,Customer 213,Laptop,Electronics,East,Patna,2,52606.5,0,105213.0,27557.01,Credit Card
+ORD-11145,2026-08-17,Customer 308,Laptop,Electronics,West,Pune,1,46977.66,0,46977.66,15509.33,Debit Card
+ORD-11146,2026-10-20,Customer 202,Headphones,Electronics,Central,Bhopal,4,2097.05,0.15,7129.97,1876.96,Net Banking
+ORD-11147,2026-08-16,Customer 082,Bookshelf,Furniture,South,Chennai,4,6913.11,0,27652.44,5613.41,Credit Card
+ORD-11148,2026-10-12,Customer 134,Smartphone,Electronics,South,Hyderabad,5,25929.18,0.05,123163.6,35771.51,Credit Card
+ORD-11149,2026-09-24,Customer 079,Desk,Furniture,South,Bengaluru,1,8744.92,0,8744.92,2352.96,Net Banking
+ORD-11150,2026-07-15,Customer 325,Yoga Mat,Sports,Central,Nagpur,1,923.22,0,923.22,225.08,Debit Card
+ORD-11151,2026-06-06,Customer 134,Headphones,Electronics,South,Hyderabad,2,2123.71,0.05,4035.05,1321.54,UPI
+ORD-11152,2026-01-16,Customer 057,Office Chair,Furniture,North,Jaipur,2,8096.68,0.05,15383.69,3739.93,Net Banking
+ORD-11153,2026-08-05,Customer 186,Smartphone,Electronics,North,Delhi,2,26939.97,0.1,48491.95,16041.87,Cash
+ORD-11154,2026-03-12,Customer 215,Smartphone,Electronics,West,Pune,1,27748.67,0.05,26361.24,6100.16,Debit Card
+ORD-11155,2026-09-11,Customer 324,Running Shoes,Sports,West,Ahmedabad,2,3006.58,0,6013.16,2267.67,UPI
+ORD-11156,2026-02-14,Customer 268,Smartphone,Electronics,East,Patna,3,28180.89,0.05,80315.54,20192.52,Debit Card
+ORD-11157,2026-02-11,Customer 111,Smartphone,Electronics,South,Chennai,5,25382.06,0,126910.3,37715.36,UPI
+ORD-11158,2026-01-28,Customer 138,Monitor,Electronics,North,Jaipur,3,11631.05,0,34893.15,8863.4,Cash
+ORD-11159,2026-08-05,Customer 224,Monitor,Electronics,North,Chandigarh,3,13197.23,0.05,37612.11,10211.08,Cash
+ORD-11160,2026-06-14,Customer 053,Monitor,Electronics,East,Patna,2,11794.16,0.1,21229.49,3486.94,Net Banking
+ORD-11161,2026-06-29,Customer 306,Office Chair,Furniture,South,Hyderabad,2,8656.66,0.05,16447.65,2737.48,Debit Card
+ORD-11162,2026-05-24,Customer 192,Backpack,Accessories,East,Patna,5,1662.59,0,8312.95,3092.97,UPI
+ORD-11163,2026-09-30,Customer 331,T-Shirt,Clothing,South,Hyderabad,1,722.01,0,722.01,232.23,Debit Card
+ORD-11164,2026-05-27,Customer 126,Bookshelf,Furniture,North,Delhi,1,5825.39,0,5825.39,1340.92,Credit Card
+ORD-11165,2026-11-12,Customer 006,Running Shoes,Sports,East,Patna,3,2982.11,0,8946.33,3736.78,Debit Card
+ORD-11166,2026-06-10,Customer 146,Monitor,Electronics,West,Ahmedabad,5,13436.91,0.1,60466.1,12443.0,Credit Card
+ORD-11167,2026-11-03,Customer 039,Jeans,Clothing,South,Hyderabad,1,1535.12,0.1,1381.61,142.61,Cash
+ORD-11168,2026-08-04,Customer 256,Running Shoes,Sports,West,Mumbai,3,3452.63,0,10357.89,4226.86,Debit Card
+ORD-11169,2026-03-26,Customer 296,Bookshelf,Furniture,North,Delhi,1,6197.6,0.05,5887.72,1413.79,Debit Card
+ORD-11170,2026-06-19,Customer 019,Laptop,Electronics,Central,Nagpur,1,57229.2,0,57229.2,12476.29,Net Banking
+ORD-11171,2026-04-28,Customer 141,Laptop,Electronics,East,Bhubaneswar,1,47594.56,0,47594.56,10822.85,Debit Card
+ORD-11172,2026-04-26,Customer 233,Bookshelf,Furniture,North,Jaipur,5,6636.57,0.05,31523.71,11902.77,UPI
+ORD-11173,2026-02-04,Customer 054,Backpack,Accessories,East,Bhubaneswar,5,1660.69,0,8303.45,1842.46,Cash
+ORD-11174,2026-08-27,Customer 003,Monitor,Electronics,South,Hyderabad,1,11775.69,0.15,10009.34,2136.93,UPI
+ORD-11175,2026-11-12,Customer 314,Office Chair,Furniture,North,Jaipur,1,7102.37,0,7102.37,2533.45,Debit Card
+ORD-11176,2026-02-08,Customer 300,Yoga Mat,Sports,South,Chennai,2,925.52,0,1851.04,635.57,Cash
+ORD-11177,2026-04-17,Customer 165,Running Shoes,Sports,North,Chandigarh,5,3251.42,0.05,15444.24,3435.05,Cash
+ORD-11178,2026-03-29,Customer 338,Monitor,Electronics,North,Chandigarh,3,13357.06,0.1,36064.06,9427.85,Credit Card
+ORD-11179,2026-03-15,Customer 240,Yoga Mat,Sports,North,Jaipur,1,1002.41,0,1002.41,417.85,Credit Card
+ORD-11180,2026-05-04,Customer 160,T-Shirt,Clothing,North,Chandigarh,3,614.84,0.05,1752.29,448.89,Cash
+ORD-11181,2026-06-10,Customer 232,Running Shoes,Sports,South,Hyderabad,5,2954.38,0,14771.9,2954.27,Net Banking
+ORD-11182,2026-09-16,Customer 332,Monitor,Electronics,West,Mumbai,2,11438.76,0,22877.52,5840.54,Credit Card
+ORD-11183,2025-12-09,Customer 244,T-Shirt,Clothing,North,Chandigarh,1,619.4,0.1,557.46,170.4,Net Banking
+ORD-11184,2026-03-13,Customer 078,T-Shirt,Clothing,East,Bhubaneswar,3,601.92,0.05,1715.47,514.53,Net Banking
+ORD-11185,2026-10-23,Customer 196,Bookshelf,Furniture,Central,Nagpur,3,5652.51,0,16957.53,6724.08,Cash
+ORD-11186,2026-08-04,Customer 266,Monitor,Electronics,East,Bhubaneswar,2,12357.4,0.05,23479.06,6003.35,UPI
+ORD-11187,2025-12-13,Customer 295,Running Shoes,Sports,North,Jaipur,2,3555.12,0,7110.24,2895.62,Credit Card
+ORD-11188,2026-06-20,Customer 201,Smartphone,Electronics,Central,Indore,1,26896.83,0.1,24207.15,4091.47,UPI
+ORD-11189,2026-04-21,Customer 306,Monitor,Electronics,East,Bhubaneswar,4,11815.69,0.1,42536.48,11180.86,UPI
+ORD-11190,2026-11-12,Customer 123,Smartphone,Electronics,South,Bengaluru,5,30791.94,0.05,146261.71,29655.44,Debit Card
+ORD-11191,2025-12-01,Customer 342,Running Shoes,Sports,North,Jaipur,2,3011.89,0.1,5421.4,1722.56,Cash
+ORD-11192,2025-11-29,Customer 305,Desk,Furniture,North,Jaipur,2,10586.44,0.1,19055.59,5907.78,Cash
+ORD-11193,2025-12-03,Customer 291,Jacket,Clothing,North,Chandigarh,4,3057.9,0.05,11620.02,4393.07,Debit Card
+ORD-11194,2026-01-15,Customer 156,Backpack,Accessories,South,Hyderabad,5,1819.25,0.1,8186.62,1218.33,Debit Card
+ORD-11195,2026-05-30,Customer 235,T-Shirt,Clothing,West,Mumbai,3,726.54,0,2179.62,660.95,Debit Card
+ORD-11196,2026-09-26,Customer 248,Office Chair,Furniture,East,Kolkata,5,8349.09,0.1,37570.9,4319.81,Debit Card
+ORD-11197,2026-02-05,Customer 183,Running Shoes,Sports,Central,Indore,1,2984.12,0,2984.12,1095.59,UPI
+ORD-11198,2026-06-06,Customer 328,Monitor,Electronics,Central,Bhopal,4,12238.4,0.1,44058.24,13387.73,Debit Card
+ORD-11199,2026-11-07,Customer 179,Running Shoes,Sports,Central,Indore,4,3575.08,0.1,12870.29,3975.65,Cash
+ORD-11200,2026-05-19,Customer 314,Jacket,Clothing,West,Mumbai,3,2710.54,0,8131.62,2400.3,Cash
